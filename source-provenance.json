@@ -1,10 +1,10 @@
 {
-  "sourceCommit": "d2d5d0c3650373c6b4416e3b71033a12a16fd948",
+  "sourceCommit": "07ff9b7485f74e21c4e366711d75f8ec82f49120",
   "publicInterfaceOnly": true,
   "base": "/bereia-web-preview/",
   "n04Complete": false,
   "files": {
-    "assets/bookAI.worker-CDUn7781.js": "01cac14f6e4a2f0830812c1ffcba3f358bd1725dd2b6db89742ada92ae005ca1",
+    "assets/bookAI.worker-B4iRIt8b.js": "eedbe29eb09894d1edf6bfa5d434c070d8c1e8a846b4c85361d11998074f5003",
     "assets/dist-DUv6x2D9.js": "db6866ba833394ba4957e6c1dee004fe61b5e61c1f385315546867c1a8366b5d",
     "assets/dm-sans-latin-400-normal-BwCSEQnW.woff": "38702875fe179437d200e7ba6f7fab4d497ffe48117ef332029b2081751186ad",
     "assets/dm-sans-latin-400-normal-CW0RaeGs.woff2": "4ab51eb2cd7305d177187908d6397474d4520663f6c6e572feb0a64f4fa80006",
@@ -12,7 +12,7 @@
     "assets/dm-sans-latin-500-normal-Dr3UlScf.woff": "7deb957e430b780ee3272d801af4f9f2211b1330ec40a312a8f25309eacb4034",
     "assets/dm-sans-latin-600-normal-Aqo67rzb.woff2": "6bb2b2645ba5eeaecf56322c543fa3a75b87b927977b9c03b1dabc4205089120",
     "assets/dm-sans-latin-600-normal-BmdmIIQ2.woff": "e7351257e49400eff05aca30a2007289194a900860d30c30770d8b8732897564",
-    "assets/index-DKdTCu4P.js": "9749daa673cd109a5c8af99261f4e25f55eb7bea88cd8eea30b4e05e02dd85ed",
+    "assets/index-BbtN9aJY.js": "3e6e0a76c58d35bf3a0aad048742717fad7626ba51b4a899d5f4bc36813f515b",
     "assets/index-ikSc7PHN.css": "54f34ddd113832855879f83ed775267b4ff3153efa7e4fa189ef35eb49d92b02",
     "assets/lib-BlydbgXm.js": "a85e973d93fc06689ba034bb3728a2935c7d9361653a3e7724f3c6c05e56bd17",
     "assets/libre-caslon-display-latin-400-normal-BbfEE5V2.woff": "db2f5a4930e4cda519d4213d587afdbef5670ce031287b04f6d7c9f84e9386f0",
@@ -23,11 +23,11 @@
     "assets/transformers.web-CeiwzlfN.js": "b43e0410b45fa9746430a5a8fd2b2529e2288eb5c9ade55938145b176abe433d",
     "atalhos/Bereia-Atual.webloc": "4d50efb167ea89ffb6da680bd5113cd20201992f7ee93604c20cc681c399877c",
     "atalhos/Bereia-Atual.zip": "a812c158d61ec921cb2029aed847013a17cadc9922e22f32e3ff3e2bb19b75bf",
-    "index.html": "cbb6728450be10263f45652f4ff1775a349e42447b45c471a90f40ddeac6dd9c",
+    "index.html": "7416201d15f4bc6020dca1391a94fc5d7442c3243c9750d4468214279a9c940f",
     "licenses/DM-Sans-OFL.txt": "6fbd040a29c2037a765dfb9f2561e9965b5c95c6dcb5dce516089d63d5f17af7",
     "licenses/Libre-Caslon-Display-OFL.txt": "78c9f56e0d8a7ad7b9d26842a8eae728337a8671d8ddc6e889fa10645935dc7b",
     "licenses/third-party-notices.txt": "3c5bed662f45ec07c0b97ab77fb1d283d01c50b2efed3e0c9b5f277eed5a28b1",
-    "sw.js": "a70fe558fcb304e196e158a0c6441872b38f02f27419137f4c332862aa32f5f7"
+    "sw.js": "5fcd4546e2dfd77c8a5938f7899e876bd76261b3e18c31808fc4aad790340549"
   },
   "additionalDistributionFiles": {
     "licenses/web-llm-LICENSE.txt": "d412ab9d5ac17e6931705aac01e5a0d323da5acd2e89a2c19aa8fc05becc59ad",
@@ -35,5 +35,5 @@
     "atalhos/Bereia-Atual.zip": "a812c158d61ec921cb2029aed847013a17cadc9922e22f32e3ff3e2bb19b75bf",
     "atalhos/Bereia-Atual.webloc": "4d50efb167ea89ffb6da680bd5113cd20201992f7ee93604c20cc681c399877c"
   },
-  "uiRevision": "developed-explanations-v4"
+  "uiRevision": "consolidated-local-ai-v5"
 }

@@ -12,3 +12,7 @@ Para GitHub Pages, usar a branch main, pasta /(root).
 ## Atalho para Mac
 
 Baixe [Bereia Atual.zip](atalhos/Bereia-Atual.zip), abra e arraste Bereia Atual.webloc para a Mesa. O arquivo abre o endereço atual no navegador padrão.
+
+## Pacote de continuidade da IA local
+
+Inclui conta lembrada opcional neste navegador, conversa preservada em memória entre telas, recuperação da pergunta em caso de falha e pedido de aprofundamento. A opção de lembrar a conta salva a sessão de acesso, não a senha ou o livro. Consultas privadas continuam exigindo autorização no Supabase. Fechar/recarregar ainda exige consultar ou desbloquear o livro e preparar o índice novamente. A geração e a fidelidade no dispositivo continuam em avaliação; N04 permanece aberto.
