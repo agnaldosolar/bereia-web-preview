@@ -1,22 +1,22 @@
 {
-  "sourceCommit": "c67a1b18527330dc65caad8b92e9ebd6f3fe30f4",
+  "sourceCommit": "83a98b85603a899e541975502b4fdbf557787be2",
   "publicInterfaceOnly": true,
   "base": "/bereia-web-preview/",
   "n04Complete": false,
   "files": {
-    "sw.js": "88beb56307f626b7b0b7cf8d77cff360588bccf2a1782540fb08252962dbc990",
-    "index.html": "5e161ba1eae0c5ac8c8f04c1faa04516f33d7e4b5512c01822418003e25349b5",
+    "sw.js": "25784832b16f1feb33963d969fb8851ac52ea1dbd128588952d6489a33279de9",
+    "index.html": "783fb39744b38f1d76d420cd18531be25e57b0dfde7a2ea9ffe95461378f976b",
     "assets/libre-caslon-display-latin-400-normal-n_DgBRfq.woff2": "84267e937417f10dff37df818c5ef7f1e9f2e6a703e03c2dd286d3320af53269",
     "assets/mediaHash.worker-OQHa0dMZ.js": "41a693f04c99043132d73512f3a65a7e1be502793f874429348f448baaa9145d",
     "assets/dm-sans-latin-400-normal-BwCSEQnW.woff": "38702875fe179437d200e7ba6f7fab4d497ffe48117ef332029b2081751186ad",
     "assets/libre-caslon-display-latin-400-normal-BbfEE5V2.woff": "db2f5a4930e4cda519d4213d587afdbef5670ce031287b04f6d7c9f84e9386f0",
-    "assets/bookAI.worker-BxiITuV7.js": "6df3875977e4385c905d8cf76a1a0adaa268a4c027dd2f26fed667a112cb60b0",
     "assets/dm-sans-latin-400-normal-CW0RaeGs.woff2": "4ab51eb2cd7305d177187908d6397474d4520663f6c6e572feb0a64f4fa80006",
-    "assets/index-Bn1_VOTZ.css": "51987ba065b7287b46a4cc7849c87c2c8e08cc5bb805993c925e5d5f626be7e4",
-    "assets/index-B8dEhWAg.js": "0794943b7a935f04af8cd743ccae156c13f1309f92d1c2bf2c59ca88b3bce733",
     "assets/lib-BlydbgXm.js": "a85e973d93fc06689ba034bb3728a2935c7d9361653a3e7724f3c6c05e56bd17",
+    "assets/bookAI.worker-BfpHWZ85.js": "77adc37e38a3a958ed369bcb5a0dd72ae86c9df8a4b1c75f9776b5297d998937",
+    "assets/index-CsdyudrO.js": "2068edd40d9d58b49ef8bd4f239d6dbe72676e46fbcca9fa395a6b5e31ac06b0",
     "assets/ort-wasm-simd-threaded.jsep-B0T3yYHD.wasm": "c46655e8a94afc45338d4cb2b840475f88e5012d524509916e505079c00bfa39",
     "assets/dm-sans-latin-500-normal-Dr3UlScf.woff": "7deb957e430b780ee3272d801af4f9f2211b1330ec40a312a8f25309eacb4034",
+    "assets/index-ikSc7PHN.css": "54f34ddd113832855879f83ed775267b4ff3153efa7e4fa189ef35eb49d92b02",
     "assets/transformers.web-CeiwzlfN.js": "b43e0410b45fa9746430a5a8fd2b2529e2288eb5c9ade55938145b176abe433d",
     "assets/ort-wasm-simd-threaded.jsep-B0TxsgQ-.mjs": "08fb86ec433c78bfb032c5d84a68b8e8e5a8d81268fa39e24314179a5767a5b9",
     "assets/dm-sans-latin-500-normal-B9HHJjqV.woff2": "19bf1984956517c35c2bd35b6cdedac12a21d6fcd3596c614ecdfb88b648909d",
@@ -30,5 +30,6 @@
   "additionalDistributionFiles": {
     "licenses/web-llm-LICENSE.txt": "d412ab9d5ac17e6931705aac01e5a0d323da5acd2e89a2c19aa8fc05becc59ad",
     "licenses/transformers-LICENSE.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
-  }
+  },
+  "uiRevision": "conversation-activity-v2"
 }
