@@ -16,3 +16,5 @@ Baixe [Bereia Atual.zip](atalhos/Bereia-Atual.zip), abra e arraste Bereia Atual.
 ## Pacote de continuidade da IA local
 
 Inclui conta lembrada opcional neste navegador, conversa preservada em memória entre telas, recuperação da pergunta em caso de falha e pedido de aprofundamento. A opção de lembrar a conta salva a sessão de acesso, não a senha ou o livro. Consultas privadas continuam exigindo autorização no Supabase. Fechar/recarregar ainda exige consultar ou desbloquear o livro e preparar o índice novamente. A geração e a fidelidade no dispositivo continuam em avaliação; N04 permanece aberto.
+
+Inclui filtro lexical conservador para quantidades/ordinais sem correspondência nos trechos citados, correção restrita de grafia na busca com vocabulário do livro e tempos locais por etapa. O filtro não prova verdade ou apoio semântico. Não há validação nova de geração no hardware do proprietário.
