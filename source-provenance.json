@@ -29,7 +29,9 @@
   },
   "additionalDistributionFiles": {
     "licenses/web-llm-LICENSE.txt": "d412ab9d5ac17e6931705aac01e5a0d323da5acd2e89a2c19aa8fc05becc59ad",
-    "licenses/transformers-LICENSE.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    "licenses/transformers-LICENSE.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "atalhos/Bereia-Atual.zip": "a812c158d61ec921cb2029aed847013a17cadc9922e22f32e3ff3e2bb19b75bf",
+    "atalhos/Bereia-Atual.webloc": "4d50efb167ea89ffb6da680bd5113cd20201992f7ee93604c20cc681c399877c"
   },
   "uiRevision": "conversation-activity-v2"
 }
