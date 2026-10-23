@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="referrer" content="no-referrer" />
+    <title>Atualizar Bereia</title>
+    <style>
+      body {
+        margin: 0;
+        background: #f6f8f4;
+        color: #243527;
+        font:
+          18px/1.6 system-ui,
+          sans-serif;
+      }
+      main {
+        max-width: 620px;
+        margin: 8vh auto;
+        padding: 28px;
+      }
+      h1 {
+        font-size: 30px;
+      }
+      button,
+      a {
+        font: inherit;
+      }
+      button {
+        padding: 14px 22px;
+        border: 0;
+        border-radius: 8px;
+        background: #45603a;
+        color: white;
+        cursor: pointer;
+      }
+      button:disabled {
+        opacity: 0.5;
+        cursor: wait;
+      }
+      label {
+        display: flex;
+        gap: 12px;
+        margin: 25px 0;
+      }
+      input {
+        width: 24px;
+        min-width: 24px;
+      }
+      #status {
+        white-space: pre-line;
+      }
+      a {
+        color: #365a2b;
+      }
+      small {
+        display: block;
+        margin-top: 24px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Atualizar Bereia</h1>
+      <p>
+        Salve o que estiver aberto no Bereia e feche as outras abas e janelas
+        dele. Mantenha esta página aberta.
+      </p>
+      <p>
+        Este botão renova a abertura do aplicativo. Seus cadastros, trabalhos e
+        arquivos guardados neste navegador serão preservados.
+      </p>
+      <label
+        ><input id="saved" type="checkbox" />Salvei minhas alterações e fechei
+        as outras janelas do Bereia.</label
+      >
+      <button id="update" type="button" disabled>
+        Atualizar e abrir Bereia
+      </button>
+      <p id="status" role="status" aria-live="polite"></p>
+      <p><a href="./">Voltar ao Bereia</a></p>
+      <small
+        >Use o mesmo perfil do Chrome em que cadastrou seus dados. Nenhum dado é
+        enviado por esta página.</small
+      >
+    </main>
+    <script>
+      "use strict";
+      const saved = document.getElementById("saved"),
+        button = document.getElementById("update"),
+        status = document.getElementById("status");
+      const base = new URL("./", location.href);
+      let working = false;
+      saved.addEventListener("change", () => {
+        button.disabled = working || !saved.checked;
+      });
+      button.addEventListener("click", async () => {
+        if (working || !saved.checked) return;
+        working = true;
+        button.disabled = true;
+        status.textContent = "Conferindo a atualização…";
+        try {
+          if (!("serviceWorker" in navigator))
+            throw Error(
+              "Este navegador não oferece o recurso de atualização. Abra esta página no Chrome atualizado.",
+            );
+          const response = await fetch(
+            new URL("build-identity.json?recovery=" + Date.now(), base),
+            {
+              cache: "no-store",
+              credentials: "omit",
+              signal: AbortSignal.timeout(10000),
+            },
+          );
+          if (!response.ok)
+            throw Error(
+              "Não foi possível acessar a versão no servidor. Confira a conexão e tente novamente.",
+            );
+          const identity = await response.json();
+          if (
+            identity.schema !== 1 ||
+            !/^[a-f0-9]{64}$/.test(identity.buildSHA256) ||
+            identity.base !== base.pathname
+          )
+            throw Error(
+              "A identificação do servidor não corresponde a este Bereia. Nada foi alterado.",
+            );
+          const registrations = (
+            await navigator.serviceWorker.getRegistrations()
+          ).filter((r) => r.scope === base.href);
+          status.textContent =
+            "Abrindo a compilação " + identity.buildSHA256.slice(0, 12) + "…";
+          for (const registration of registrations) {
+            if (!(await registration.unregister()))
+              throw Error(
+                "Não foi possível renovar a abertura offline. Tente novamente. Seus dados foram preservados.",
+              );
+          }
+          // No IndexedDB, localStorage, CacheStorage or file deletion. A new navigation
+          // picks up the server shell; normal app startup registers its current worker.
+          location.replace(new URL("?atualizacao=" + Date.now(), base).href);
+        } catch (error) {
+          status.textContent =
+            (error instanceof Error
+              ? error.message
+              : "Não foi possível concluir a atualização.") +
+            " Nenhum cadastro foi apagado.";
+          working = false;
+          button.disabled = !saved.checked;
+        }
+      });
+    </script>
+  </body>
+</html>

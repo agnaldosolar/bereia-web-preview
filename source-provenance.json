@@ -134,5 +134,12 @@
     "assets/ManuscriptCopies-Dz0pGkPt.js": "301bbad6a88b96d350a5f7a79e819a2adcf9d5d3ac7befe9f203febccfe7ff25",
     "assets/SearchPage-AWys1fm7.js": "e9c82a6121b5ad1105430155f5627cfede18cbdcb97db973accecf7e218b537b",
     "assets/ManuscriptCopies-B73-rX3w.js": "f6b048d85d3eb7dca7f9225411902beb8d28aefefa21c525de42450723877fef"
+  },
+  "supportFiles": {
+    "atualizar.html": {
+      "sha256": "c01a2cdbc29474abb5442c08287018b59b382e0b11ed3c05a2a71f4553ef8493",
+      "sourceCommit": "cacbc9d7a9fa9e5c5b6513f78a6a04f66d74daa0",
+      "purpose": "Manual offline registration recovery; no user storage deletion"
+    }
   }
 }
