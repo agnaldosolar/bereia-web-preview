@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "candidate": "0.3.0-rc.24",
-  "buildSHA256": "59d078f1bf503622b2bb8ba9cc79732ed9c1269078c6ecfe27b775cc19e311ff",
+  "buildSHA256": "086f0b2693fbc57f7cc9718fef31a27a1221b0bd4ec99a97be2bf636fff7d849",
   "lockSHA256": "49067d3e4d58acf87a0a2658d539427b27d42eb00f9be00dd03428373a3351c6",
   "modelsSHA256": "74c69807854833e18616966fab30980b4ffdd73c22efaeaa54fb54f3eb6126f5",
-  "sourceCommit": "aa2c9f51eb71a13ed8dec4507f461da8c5f2b4f2",
+  "sourceCommit": "16e16f08bc31c5d4cde30a557dbee6a484892e11",
   "sourceDirty": false,
   "base": "/bereia-web-preview/",
   "n04Complete": false
