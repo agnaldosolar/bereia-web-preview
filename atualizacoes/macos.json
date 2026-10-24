@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-24.1",
-  "fileName": "atualizar_estabilidade_e_botao_mac.command",
-  "sha256": "8a736f818517646411be1d749bc19f84c4a05b73bed3f55310a8ab2ecb4a6025",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/91255005267e2de3acf125040f5a48373f6cea26/Tools/atualizar_estabilidade_e_botao_mac.command"
+  "release": "2026-10-24.2",
+  "fileName": "atualizar_visual_integrado_mac.command",
+  "sha256": "f947e580bfceb750813f9012f284c53799f22ef722fc2c4fe89bf422c60cb4d6",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/2de99c9294d1a2fe5f7907436e91de8dbfc655cb/Tools/atualizar_visual_integrado_mac.command"
 }
