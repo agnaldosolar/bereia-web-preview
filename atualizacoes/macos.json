@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-25.4",
-  "fileName": "atualizar_correcao_build_mac.command",
-  "sha256": "ae44cdbd02c495fccde9d985941c04290aacc739fde1a3b7d74d0c6c70e37233",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/d6b6440c56995395ca9c33360242522b65fc4843/Tools/atualizar_correcao_build_mac.command"
+  "release": "2026-10-25.5",
+  "fileName": "atualizar_identificacao_entrega_mac.command",
+  "sha256": "9d74dd88acf8faf5092bcc40848a3510842ac6d65ac64c8baf648b473bfe26d7",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/369d8f70e89f5a3c37e7fc66f5a806f991cf6a2e/Tools/atualizar_identificacao_entrega_mac.command"
 }
