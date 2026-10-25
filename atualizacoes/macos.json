@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-25.2",
-  "fileName": "atualizar_download_recuperavel_mac.command",
-  "sha256": "13380544161ff9a4f34b0fa0d88d8e7c759ca9a71212e07f0c52fb8814ab70db",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/5e8c1f6a7ed6f1fd859027540b92a05ac08dbf27/Tools/atualizar_download_recuperavel_mac.command"
+  "release": "2026-10-25.3",
+  "fileName": "atualizar_um_clique_git_mac.command",
+  "sha256": "510b261e17a56e29098f34a24f7cf27b5f31bffab32204c99f0e0bae36e602a8",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/c69c03168c78b728256f2a2441fc9d2c001f7e79/Tools/atualizar_um_clique_git_mac.command"
 }
