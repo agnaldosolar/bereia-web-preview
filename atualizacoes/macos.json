@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-25.3",
-  "fileName": "atualizar_um_clique_git_mac.command",
-  "sha256": "510b261e17a56e29098f34a24f7cf27b5f31bffab32204c99f0e0bae36e602a8",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/c69c03168c78b728256f2a2441fc9d2c001f7e79/Tools/atualizar_um_clique_git_mac.command"
+  "release": "2026-10-25.4",
+  "fileName": "atualizar_correcao_build_mac.command",
+  "sha256": "ae44cdbd02c495fccde9d985941c04290aacc739fde1a3b7d74d0c6c70e37233",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/d6b6440c56995395ca9c33360242522b65fc4843/Tools/atualizar_correcao_build_mac.command"
 }
