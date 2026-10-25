@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-24.2",
-  "fileName": "atualizar_visual_integrado_mac.command",
-  "sha256": "f947e580bfceb750813f9012f284c53799f22ef722fc2c4fe89bf422c60cb4d6",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/2de99c9294d1a2fe5f7907436e91de8dbfc655cb/Tools/atualizar_visual_integrado_mac.command"
+  "release": "2026-10-24.3",
+  "fileName": "atualizar_liturgia_proximos_mac.command",
+  "sha256": "5c96613e02318ba0fc9d6f41fa99f222f00128fdbcb49be06a3b13d3c8d0ff9c",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/0d05e10ac1bc417492fa665254e06ac373314e78/Tools/atualizar_liturgia_proximos_mac.command"
 }
