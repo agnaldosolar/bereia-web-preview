@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-24.4",
-  "fileName": "atualizar_atualizacao_simples_mac.command",
-  "sha256": "4d686ad6e493702c861f806b5eeea43c15ae178a8a34ffa0cd950364861d6070",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/ede575ee75d7ace9747ee96601923e95a5402eb9/Tools/atualizar_atualizacao_simples_mac.command"
+  "release": "2026-10-25.1",
+  "fileName": "atualizar_letras_fundos_mac.command",
+  "sha256": "3043ce383aa042774621d91827efc1d4e5268e57379b110c25a2b2057378b05e",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/b35ee0bd45d88ed55c479d444e0a1608b6ce398d/Tools/atualizar_letras_fundos_mac.command"
 }
