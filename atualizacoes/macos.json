@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-24.3",
-  "fileName": "atualizar_liturgia_proximos_mac.command",
-  "sha256": "5c96613e02318ba0fc9d6f41fa99f222f00128fdbcb49be06a3b13d3c8d0ff9c",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/0d05e10ac1bc417492fa665254e06ac373314e78/Tools/atualizar_liturgia_proximos_mac.command"
+  "release": "2026-10-24.4",
+  "fileName": "atualizar_atualizacao_simples_mac.command",
+  "sha256": "4d686ad6e493702c861f806b5eeea43c15ae178a8a34ffa0cd950364861d6070",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/ede575ee75d7ace9747ee96601923e95a5402eb9/Tools/atualizar_atualizacao_simples_mac.command"
 }
