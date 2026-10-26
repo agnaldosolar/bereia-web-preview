@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.3",
-  "fileName": "atualizar_validacao_caminhos_mac.command",
-  "sha256": "5995d479f55a30be023d00b7301ac03ba411502d6bdce0c0d3974da336201cdb",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/87d06bd39a9e6a61ed419c86c20a4e1f2f9b064c/Tools/atualizar_validacao_caminhos_mac.command"
+  "release": "2026-10-26.4",
+  "fileName": "atualizar_layout_cadastro_ordem_mac.command",
+  "sha256": "b376c8a459563d064273b679e88bdac123f3393d6d618a458fee139f2b48f5fc",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/9fa7438ba1c06f33bd015684d0b0e964b9515204/Tools/atualizar_layout_cadastro_ordem_mac.command"
 }
