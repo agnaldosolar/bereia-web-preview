@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-25.10",
-  "fileName": "atualizar_restaurar_cadastro_mac.command",
-  "sha256": "dc97f69d6d873bc3de95bacbba36deee75cff96999c7f8a5479819383af4f67a",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/e3521d24e6ade3efda3c8777fcd6c95ba089c0c5/Tools/atualizar_restaurar_cadastro_mac.command"
+  "release": "2026-10-25.11",
+  "fileName": "atualizar_exclusao_definitiva_mac.command",
+  "sha256": "bee8da1dc14111069aa7319095a7862ea0fa563a5198975dfc7ec7f37149c506",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/6db30085d9d3a256ec689b3ac085b17f069ac3ae/Tools/atualizar_exclusao_definitiva_mac.command"
 }
