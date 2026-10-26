@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.4",
-  "fileName": "atualizar_layout_cadastro_ordem_mac.command",
-  "sha256": "b376c8a459563d064273b679e88bdac123f3393d6d618a458fee139f2b48f5fc",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/9fa7438ba1c06f33bd015684d0b0e964b9515204/Tools/atualizar_layout_cadastro_ordem_mac.command"
+  "release": "2026-10-26.5",
+  "fileName": "atualizar_preservar_icone_mac.command",
+  "sha256": "3f13c0fd828a4fda7b839bff252486ab6a235486c1150555a7d2a268c5ae2f56",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/9c4b4033bbd6b361fbbf8e7d9699ef86cd52884b/Tools/atualizar_preservar_icone_mac.command"
 }
