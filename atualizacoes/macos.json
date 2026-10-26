@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.8",
-  "fileName": "atualizar_pacote_completo_mac.command",
-  "sha256": "24d602beccf43e1f3668d21002a8ce2d4d1199fe36223ba2ed97f0f484792952",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/e284b1185b057ab1d03ba4ede821b6bc84210a01/Tools/atualizar_pacote_completo_mac.command"
+  "release": "2026-10-26.9",
+  "fileName": "atualizar_busca_letras_mac.command",
+  "sha256": "a95911bba6dc35fe09c2b441710e080f0204e0e7bc6600c92ca0ff2f4941b3dd",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/efcab9556754685c02e6698a7a6f877085df6283/Tools/atualizar_busca_letras_mac.command"
 }
