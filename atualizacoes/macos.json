@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.16",
-  "fileName": "atualizar_biblias_arquivadas_mac.command",
-  "sha256": "7fa35212d4b2d4404ebcedeb4e20e34b14c6e482825c8ef8e190074d7e89ec45",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/53d14db3456ff9d6b90ef0889d69218872f9118f/Tools/atualizar_biblias_arquivadas_mac.command"
+  "release": "2026-10-26.17",
+  "fileName": "atualizar_almeida_historica_mac.command",
+  "sha256": "c2d1c634116756a9db177c167b408caf0ec0797927aa15d78c369942a65487c7",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/99c3cca981da9f24fa3fd150b86b8d1b20ef0af7/Tools/atualizar_almeida_historica_mac.command"
 }
