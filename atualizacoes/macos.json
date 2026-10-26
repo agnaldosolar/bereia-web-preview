@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.7",
-  "fileName": "atualizar_protecao_links_mac.command",
-  "sha256": "58d3e423427f254106846b7d7f9c25b47d54aa631f537d2d006d68fce1a84c71",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/7e88b683e383f127001358af30a3b83ddf1f51b7/Tools/atualizar_protecao_links_mac.command"
+  "release": "2026-10-26.8",
+  "fileName": "atualizar_pacote_completo_mac.command",
+  "sha256": "24d602beccf43e1f3668d21002a8ce2d4d1199fe36223ba2ed97f0f484792952",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/e284b1185b057ab1d03ba4ede821b6bc84210a01/Tools/atualizar_pacote_completo_mac.command"
 }
