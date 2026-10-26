@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-25.8",
-  "fileName": "atualizar_exclusao_hinos_mac.command",
-  "sha256": "49e5b82bcf06c05821d49ffca212b3eca02a126f5ae8a67051289d5e188ace45",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/c6cd16c2d890f6ffa2418ce82bf7eed2b0ef04ab/Tools/atualizar_exclusao_hinos_mac.command"
+  "release": "2026-10-25.9",
+  "fileName": "atualizar_correcao_letra_mac.command",
+  "sha256": "239424f1bdc4a36a8065bb2cad500d6d0961faaa3366f490b425540e5a4bb41d",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/8ba0ecaf0150693adf7075dfefcd769cc44c026d/Tools/atualizar_correcao_letra_mac.command"
 }
