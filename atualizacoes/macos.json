@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.12",
-  "fileName": "atualizar_biblias_visual_mac.command",
-  "sha256": "3e1d21809c7af023ced6a3a6e09993924caf657bcd0217d5e0a5026cf05a7d0b",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/20a34db0e8a577a5d94d1529ef9b318fb93a5faa/Tools/atualizar_biblias_visual_mac.command"
+  "release": "2026-10-26.13",
+  "fileName": "atualizar_biblias_alinhadas_mac.command",
+  "sha256": "1b79f835a32315df0b647c84f2f9f28579b477ea88f60f340b83b2b5704915de",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/078cb9afade684439934f531befa00aa736e3329/Tools/atualizar_biblias_alinhadas_mac.command"
 }
