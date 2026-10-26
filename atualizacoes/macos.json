@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-25.12",
-  "fileName": "atualizar_duplicidade_cadastro_mac.command",
-  "sha256": "b28b02eca6f24f28d4c2d908a2b43777148967f41b11c10ffcda52b2e94b3078",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/25959a21d80564710e016b82a1429876cf90b6af/Tools/atualizar_duplicidade_cadastro_mac.command"
+  "release": "2026-10-26.1",
+  "fileName": "atualizar_limpeza_hino_mac.command",
+  "sha256": "3ca0d5e9e2bfe9760a6f7ed8661edcccac0c8cdd689b58e792ac1ff08a198aec",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/5a567609ea99968149ca6960a5b9b527afffe9df/Tools/atualizar_limpeza_hino_mac.command"
 }
