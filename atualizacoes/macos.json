@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.20",
-  "fileName": "atualizar_biblioteca_importacao_mac.command",
-  "sha256": "3663fc0388daa627ed53053a3041ea2e0cb0fe52deadeb929edeca4fa6532ef6",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/0440012cd6f068e5a89b8fc41a2f9e039b7ddbd8/Tools/atualizar_biblioteca_importacao_mac.command"
+  "release": "2026-10-26.21",
+  "fileName": "atualizar_biblioteca_compartilhar_mac.command",
+  "sha256": "f9ca45fef80396b3e2c50f7dae9deb4901e4a5506fb2fafafb897421551ee483",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/ce1cd985db995c4c2e96a5ea3ef825f3ac45e5ff/Tools/atualizar_biblioteca_compartilhar_mac.command"
 }
