@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-25.6",
-  "fileName": "atualizar_letra_video_mac.command",
-  "sha256": "cc4eef2eed3faf84ee8069333ef02a2c90c60f7d331351dd4b1233fe8b50a764",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/02c0ef4450014c826bef61faa518b4c7c0ab9f48/Tools/atualizar_letra_video_mac.command"
+  "release": "2026-10-25.7",
+  "fileName": "atualizar_letra_automatica_mac.command",
+  "sha256": "8a42cafeb7dc3ba609ac7b3a29f2cbe625f5eae52a86f6bfb17ad33949bd31f7",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/268274359ad573907627c9c6ee74775e2dc50134/Tools/atualizar_letra_automatica_mac.command"
 }
