@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.18",
-  "fileName": "atualizar_multiplos_versiculos_mac.command",
-  "sha256": "7ea8ee91ea680e8e9fea3438c87e28ffd5b0700a62da75803d8819788dcaa8c4",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/7c1f3d07ed784b623b6371927450563df2451387/Tools/atualizar_multiplos_versiculos_mac.command"
+  "release": "2026-10-26.19",
+  "fileName": "atualizar_biblioteca_capas_mac.command",
+  "sha256": "70e25218c7f37f07af1f4bb990998290a6394a32e8f66bfb13f7b91d04385b69",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/ce8edfe1a53882abb716676a931a37c41cba5bbb/Tools/atualizar_biblioteca_capas_mac.command"
 }
