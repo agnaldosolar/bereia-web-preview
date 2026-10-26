@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.1",
-  "fileName": "atualizar_limpeza_hino_mac.command",
-  "sha256": "3ca0d5e9e2bfe9760a6f7ed8661edcccac0c8cdd689b58e792ac1ff08a198aec",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/5a567609ea99968149ca6960a5b9b527afffe9df/Tools/atualizar_limpeza_hino_mac.command"
+  "release": "2026-10-26.2",
+  "fileName": "atualizar_loop_fundos_mac.command",
+  "sha256": "af89a63e92f264d5115b27859f6cd7fc7cdc31d879f2ae93fadbd3d53e060159",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/d84d53c0ae2cc9725541783da1f62ac3427bd34e/Tools/atualizar_loop_fundos_mac.command"
 }
