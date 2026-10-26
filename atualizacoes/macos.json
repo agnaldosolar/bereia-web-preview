@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.17",
-  "fileName": "atualizar_almeida_historica_mac.command",
-  "sha256": "c2d1c634116756a9db177c167b408caf0ec0797927aa15d78c369942a65487c7",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/99c3cca981da9f24fa3fd150b86b8d1b20ef0af7/Tools/atualizar_almeida_historica_mac.command"
+  "release": "2026-10-26.18",
+  "fileName": "atualizar_multiplos_versiculos_mac.command",
+  "sha256": "7ea8ee91ea680e8e9fea3438c87e28ffd5b0700a62da75803d8819788dcaa8c4",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/7c1f3d07ed784b623b6371927450563df2451387/Tools/atualizar_multiplos_versiculos_mac.command"
 }
