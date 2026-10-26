@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.10",
+  "release": "2026-10-26.11",
   "fileName": "atualizar_biblias_offline_mac.command",
-  "sha256": "c5c32a7eff4956b7e55c86f8566e3ecfad1ad8d56fc32b49c9fa63981a12700b",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/9a328d1475392aaefbfd41c50b00fc5703285cf1/Tools/atualizar_biblias_offline_mac.command"
+  "sha256": "2e360631a8e63ea1602eefb3e5eed28f62638c5d358920b97093eb959fccc6b1",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/cb4c4fe3789dbb3b2a656d400941b3138edf9921/Tools/atualizar_biblias_offline_mac.command"
 }
