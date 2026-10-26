@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.15",
-  "fileName": "atualizar_king_james_mac.command",
-  "sha256": "e56fbbccf32e06dc4945dc631d6833838787ae70ee9e00b63be714e1608d08d7",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/ff7887400ef5014cda77ed4c73e6cfebbd95efb9/Tools/atualizar_king_james_mac.command"
+  "release": "2026-10-26.16",
+  "fileName": "atualizar_biblias_arquivadas_mac.command",
+  "sha256": "7fa35212d4b2d4404ebcedeb4e20e34b14c6e482825c8ef8e190074d7e89ec45",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/53d14db3456ff9d6b90ef0889d69218872f9118f/Tools/atualizar_biblias_arquivadas_mac.command"
 }
