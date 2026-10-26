@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-25.9",
-  "fileName": "atualizar_correcao_letra_mac.command",
-  "sha256": "239424f1bdc4a36a8065bb2cad500d6d0961faaa3366f490b425540e5a4bb41d",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/8ba0ecaf0150693adf7075dfefcd769cc44c026d/Tools/atualizar_correcao_letra_mac.command"
+  "release": "2026-10-25.10",
+  "fileName": "atualizar_restaurar_cadastro_mac.command",
+  "sha256": "dc97f69d6d873bc3de95bacbba36deee75cff96999c7f8a5479819383af4f67a",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/e3521d24e6ade3efda3c8777fcd6c95ba089c0c5/Tools/atualizar_restaurar_cadastro_mac.command"
 }
