@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.14",
-  "fileName": "atualizar_biblias_alinhadas_mac.command",
-  "sha256": "9e6b407d4dc85188930ac2a1b69a23f829b47e53fd55aa73a0949e447bae75ab",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/e75906e8a21a3b89df91bd446c66a3f9ef6157df/Tools/atualizar_biblias_alinhadas_mac.command"
+  "release": "2026-10-26.15",
+  "fileName": "atualizar_king_james_mac.command",
+  "sha256": "e56fbbccf32e06dc4945dc631d6833838787ae70ee9e00b63be714e1608d08d7",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/ff7887400ef5014cda77ed4c73e6cfebbd95efb9/Tools/atualizar_king_james_mac.command"
 }
