@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.5",
-  "fileName": "atualizar_preservar_icone_mac.command",
-  "sha256": "3f13c0fd828a4fda7b839bff252486ab6a235486c1150555a7d2a268c5ae2f56",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/9c4b4033bbd6b361fbbf8e7d9699ef86cd52884b/Tools/atualizar_preservar_icone_mac.command"
+  "release": "2026-10-26.6",
+  "fileName": "atualizar_canticos_playback_mac.command",
+  "sha256": "a313380d5ab029f6403782684b844819866ad21c217b625de6ad097964542508",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/4806398bd193b2c8dc61f91c4d43de3894e1b790/Tools/atualizar_canticos_playback_mac.command"
 }
