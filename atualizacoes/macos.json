@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-27.6",
-  "fileName": "atualizar_abertura_direta_mac.command",
-  "sha256": "9f241446ca645726b9eaea5bedc8e95d39040e69c5ffabc71e60f5aaf2c07e1c",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/cdbe61a3baf0e4d4429aa94a7104af73a02c60f1/Tools/atualizar_abertura_direta_mac.command"
+  "release": "2026-10-27.7",
+  "fileName": "atualizar_acervos_cursos_mac.command",
+  "sha256": "134466feba5edea3c597ba4f7eaac9dd6696d01f2b4053713bb097aabd0e124f",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/f54e85fdd5776858f09ad862ce4a8833d7dbba0d/Tools/atualizar_acervos_cursos_mac.command"
 }
