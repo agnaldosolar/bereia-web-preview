@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-27.11",
-  "fileName": "atualizar_apocalipse_referencias_mac.command",
-  "sha256": "cda4232046ee089f397da82bf180339c06e46525c9f4069ad5c088c9254882ea",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/55b1890779c44930fa5d6c5e6a1d4b965add8f81/Tools/atualizar_apocalipse_referencias_mac.command"
+  "release": "2026-10-27.12",
+  "fileName": "atualizar_apocalipse_retentativa_mac.command",
+  "sha256": "cc45d62566d8b3ed0242f3108a785e531ddbdcc785f7ae82035660555f471aba",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/1a4fdf25371a2ac74afa4a31b5f17038120cd282/Tools/atualizar_apocalipse_retentativa_mac.command"
 }
