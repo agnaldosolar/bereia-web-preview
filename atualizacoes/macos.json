@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-27.1",
-  "fileName": "atualizar_painel_trabalhos_mac.command",
-  "sha256": "08aa866db9e956e78cf1a7d03e2f3e0b4fa29a3c4aa7eab49b2759a4bf653e7d",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/b64440daf522dab3ae3a49e7a9a06fb9d515b2e5/Tools/atualizar_painel_trabalhos_mac.command"
+  "release": "2026-10-27.2",
+  "fileName": "atualizar_palavras_pensamentos_mac.command",
+  "sha256": "b8f69e9dec5cef726ab68519025076c3451c94d14aa8b18036149fc18fa0760c",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/35d6bf74bd422e48abba22d7be11e145b0cda03f/Tools/atualizar_palavras_pensamentos_mac.command"
 }
