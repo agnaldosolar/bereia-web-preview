@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-27.3",
-  "fileName": "atualizar_sermao_continuo_mac.command",
-  "sha256": "51a018c3753e713e8cd4e1fe262710a04fa0ab0f58b057c4b8d5c4c7ba84c6c2",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/b5db92649e5a0c276433d2dbabf1c77eddb51cac/Tools/atualizar_sermao_continuo_mac.command"
+  "release": "2026-10-27.4",
+  "fileName": "atualizar_todos_roteiros_mac.command",
+  "sha256": "e96b0656cfcd967927f31f407e6e0f35d50987e340e68c11884451be14ced08f",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/a64d6495c628bbdce16623ae2c5014938208287e/Tools/atualizar_todos_roteiros_mac.command"
 }
