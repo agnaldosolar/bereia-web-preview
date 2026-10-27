@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-27.10",
-  "fileName": "atualizar_apocalipse_fidelidade_mac.command",
-  "sha256": "0437e0cf05afcc9be73f893300bc35b9ff3d52586192159ce1d72a6e0177fb1b",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/2ab5b636503f1f2f531ef3221f715de94d23a543/Tools/atualizar_apocalipse_fidelidade_mac.command"
+  "release": "2026-10-27.11",
+  "fileName": "atualizar_apocalipse_referencias_mac.command",
+  "sha256": "cda4232046ee089f397da82bf180339c06e46525c9f4069ad5c088c9254882ea",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/55b1890779c44930fa5d6c5e6a1d4b965add8f81/Tools/atualizar_apocalipse_referencias_mac.command"
 }
