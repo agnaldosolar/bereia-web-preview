@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-26.22",
-  "fileName": "atualizar_leitor_biblioteca_mac.command",
-  "sha256": "2a8c3bb49ce7b554dbc5640e918914c2f2ab1e16b82f0888f1363c456df5d148",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/adc0a4d071bcee210c3344c9ae252da5fe753cdc/Tools/atualizar_leitor_biblioteca_mac.command"
+  "release": "2026-10-27.1",
+  "fileName": "atualizar_painel_trabalhos_mac.command",
+  "sha256": "08aa866db9e956e78cf1a7d03e2f3e0b4fa29a3c4aa7eab49b2759a4bf653e7d",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/b64440daf522dab3ae3a49e7a9a06fb9d515b2e5/Tools/atualizar_painel_trabalhos_mac.command"
 }
