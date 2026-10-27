@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-27.5",
-  "fileName": "atualizar_modelos_padronizados_mac.command",
-  "sha256": "6754eda53709db01fdd83ef42ed73c62ed6a593a6335ccd099acba25a9a8211b",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/3ede99723460a3a49c24e8eb50b2c164b46a9744/Tools/atualizar_modelos_padronizados_mac.command"
+  "release": "2026-10-27.6",
+  "fileName": "atualizar_abertura_direta_mac.command",
+  "sha256": "9f241446ca645726b9eaea5bedc8e95d39040e69c5ffabc71e60f5aaf2c07e1c",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/cdbe61a3baf0e4d4429aa94a7104af73a02c60f1/Tools/atualizar_abertura_direta_mac.command"
 }
