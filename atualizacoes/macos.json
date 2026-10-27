@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-27.16",
-  "fileName": "atualizar_correcao_caminho_robo_mac.command",
-  "sha256": "1758629364980a3b953fcb4a7fba437c1221e80cf917747a20620e758102547f",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/fdcebb6697d2ed3e8532b0240dd8fc3fdc2798d2/Tools/atualizar_correcao_caminho_robo_mac.command"
+  "release": "2026-10-27.17",
+  "fileName": "atualizar_creditos_compartilhados_mac.command",
+  "sha256": "75e68235211e9c66337184c1bdedd731a6c2bbffad7e28833bb35dc67f81f17b",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/69ae47b345b873c532bd103efc8c91d8e30e7ad2/Tools/atualizar_creditos_compartilhados_mac.command"
 }
