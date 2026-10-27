@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-27.2",
-  "fileName": "atualizar_palavras_pensamentos_mac.command",
-  "sha256": "b8f69e9dec5cef726ab68519025076c3451c94d14aa8b18036149fc18fa0760c",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/35d6bf74bd422e48abba22d7be11e145b0cda03f/Tools/atualizar_palavras_pensamentos_mac.command"
+  "release": "2026-10-27.3",
+  "fileName": "atualizar_sermao_continuo_mac.command",
+  "sha256": "51a018c3753e713e8cd4e1fe262710a04fa0ab0f58b057c4b8d5c4c7ba84c6c2",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/b5db92649e5a0c276433d2dbabf1c77eddb51cac/Tools/atualizar_sermao_continuo_mac.command"
 }
