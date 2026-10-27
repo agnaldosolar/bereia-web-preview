@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-27.15",
-  "fileName": "atualizar_apocalipse_openai_mac.command",
-  "sha256": "81641413c78b0a74ada8cdf7a4a5842bdc2e67945b87d5eec5f87fe764a10967",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/69f1f0afea1d9f556e0f264f22535ab09fa0e3f7/Tools/atualizar_apocalipse_openai_mac.command"
+  "release": "2026-10-27.16",
+  "fileName": "atualizar_correcao_caminho_robo_mac.command",
+  "sha256": "1758629364980a3b953fcb4a7fba437c1221e80cf917747a20620e758102547f",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/fdcebb6697d2ed3e8532b0240dd8fc3fdc2798d2/Tools/atualizar_correcao_caminho_robo_mac.command"
 }
