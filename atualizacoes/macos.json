@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-27.7",
-  "fileName": "atualizar_acervos_cursos_mac.command",
-  "sha256": "134466feba5edea3c597ba4f7eaac9dd6696d01f2b4053713bb097aabd0e124f",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/f54e85fdd5776858f09ad862ce4a8833d7dbba0d/Tools/atualizar_acervos_cursos_mac.command"
+  "release": "2026-10-27.8",
+  "fileName": "atualizar_alinhamento_acervos_mac.command",
+  "sha256": "ef5c8d7f11997a69227ab27fbfbd8211160a1c11e8299061f757e7582047f37d",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/15bad39ad4c7c29ca1b3f59fa6eb90d6b483843a/Tools/atualizar_alinhamento_acervos_mac.command"
 }
