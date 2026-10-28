@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.6",
-  "fileName": "atualizar_descritores_passagens_mac.command",
-  "sha256": "c740b048220628c6ed4b32fc04138693811bef3e3e636c74a6e186f4d06d7284",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/6c3bc630ba01002576d15afd4db19432a5ee82f3/Tools/atualizar_descritores_passagens_mac.command"
+  "release": "2026-10-28.7",
+  "fileName": "atualizar_dicionarios_mac.command",
+  "sha256": "06563bc29359f40cd050499f193eb5576121c5e79c38dd9cc7f43b044f9c5ff2",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/85b4375038587c29011e0256b2a820e8c9c1504f/Tools/atualizar_dicionarios_mac.command"
 }
