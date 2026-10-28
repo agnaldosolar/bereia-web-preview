@@ -10,3 +10,5 @@ Modificação: reunião dos 27 documentos Word em ordem numérica em um único a
 Bereia: Biblioteca > Importar livro > selecionar Dicionario-Biblico-Aquifer-Portugues.docx. A instalação no Mac do usuário não foi realizada por esta publicação.
 
 Bereia: antes de importar o volume completo, instale a entrega 2026-10-28.7 ou posterior (Configurações > Atualizar Bereia). Ela permite o tamanho deste dicionário e lê seu XML em fluxo. O documento Word original reunido permanece inalterado.
+
+JSON estruturado: Dicionario-Biblico-Aquifer-Portugues.json. Reúne 5661 verbetes das 27 partes oficiais v2026-10-27, preservando IDs, títulos, conteúdo HTML, referências, associações e nível de revisão. Metadados e licença incluídos. Formato bereia.dictionary.v1 preparado para futura integração; o importador atual de livros não aceita este JSON. Os destaques e a inserção por verbete ainda dependem de implementação no aplicativo.
