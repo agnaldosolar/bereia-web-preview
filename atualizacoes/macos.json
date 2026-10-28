@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.1",
-  "fileName": "atualizar_sermao_expositivo_mac.command",
-  "sha256": "1363d8505106df15cb7e322a7ab1158ea905bc74abe38f717211a082fa51826e",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/be9af97b582847133190099de7a2e25716ec26aa/Tools/atualizar_sermao_expositivo_mac.command"
+  "release": "2026-10-28.2",
+  "fileName": "atualizar_sermao_unificado_mac.command",
+  "sha256": "5916366efbe2b876ee571ae3cdb4adb9474bf71428b853d369bc5b12fcc94ea3",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/7472bf15f31f7bba5f9557847c25d3c75901f798/Tools/atualizar_sermao_unificado_mac.command"
 }
