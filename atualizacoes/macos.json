@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.5",
-  "fileName": "atualizar_revisao_palavras_mac.command",
-  "sha256": "3edddb14d6322fdbb736ec0b30fd1669d9a9bf6e0f3ff9e06f0e67656eaf1cf3",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/6ade254c91ec14d7cf7a9d7f58f5fe40774fdc69/Tools/atualizar_revisao_palavras_mac.command"
+  "release": "2026-10-28.6",
+  "fileName": "atualizar_descritores_passagens_mac.command",
+  "sha256": "c740b048220628c6ed4b32fc04138693811bef3e3e636c74a6e186f4d06d7284",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/6c3bc630ba01002576d15afd4db19432a5ee82f3/Tools/atualizar_descritores_passagens_mac.command"
 }
