@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.8",
-  "fileName": "atualizar_dicionario_contextual_mac.command",
-  "sha256": "d23ebdd53d7ff56ad6db116e3ab2bd59abf28e7ecf0707803e804e19d01bc506",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/9da140539d7ae7281c88139ec2d552c9d1761d03/Tools/atualizar_dicionario_contextual_mac.command"
+  "release": "2026-10-28.9",
+  "fileName": "atualizar_busca_aquifer_mac.command",
+  "sha256": "6531a7b2d1756c4330b8df5db97ec76f9901be6d183461837dd8f87cc021f285",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/9cd155413aeea5eeaed4d00b5f78a566f1ab70b8/Tools/atualizar_busca_aquifer_mac.command"
 }
