@@ -1,0 +1,10 @@
+Dicionário Bíblico Aquifer — português — volume único
+
+Aquifer Open Bible Dictionary, criado por Mission Mutual, é uma adaptação de Tyndale Open Bible Dictionary © 2023 Tyndale House Publishers. Ambas as obras estão licenciadas sob Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0).
+Licença completa: https://creativecommons.org/licenses/by-sa/4.0/legalcode.pt
+Fonte: https://github.com/BibleAquifer/AquiferOpenBibleDictionary
+Distribuição utilizada: v2026-10-27, Portuguese-docx.zip.
+
+Modificação: reunião dos 27 documentos Word em ordem numérica em um único arquivo, com página inicial e quebras de página. O texto dos verbetes e as informações originais de autoria e licença foram preservados. Esta compilação é disponibilizada sob CC BY-SA 4.0. Não representa aprovação pelos autores originais ou revisão teológica da tradução.
+
+Bereia: Biblioteca > Importar livro > selecionar Dicionario-Biblico-Aquifer-Portugues.docx. A instalação no Mac do usuário não foi realizada por esta publicação.
