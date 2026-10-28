@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.2",
-  "fileName": "atualizar_sermao_unificado_mac.command",
-  "sha256": "5916366efbe2b876ee571ae3cdb4adb9474bf71428b853d369bc5b12fcc94ea3",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/7472bf15f31f7bba5f9557847c25d3c75901f798/Tools/atualizar_sermao_unificado_mac.command"
+  "release": "2026-10-28.3",
+  "fileName": "atualizar_sermao_limpo_mac.command",
+  "sha256": "b7b498ed4782453a0fa5902b8d0ab77588bbec53b711610236d207839ee0b697",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/4fc64a94e8a636815904983fe0a70c28da89f2c4/Tools/atualizar_sermao_limpo_mac.command"
 }
