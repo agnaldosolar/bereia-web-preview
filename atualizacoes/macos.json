@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.9",
-  "fileName": "atualizar_busca_aquifer_mac.command",
-  "sha256": "6531a7b2d1756c4330b8df5db97ec76f9901be6d183461837dd8f87cc021f285",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/9cd155413aeea5eeaed4d00b5f78a566f1ab70b8/Tools/atualizar_busca_aquifer_mac.command"
+  "release": "2026-10-28.10",
+  "fileName": "atualizar_consulta_rapida_mac.command",
+  "sha256": "22a6f6111da5dd1daa5fed552b1b0756e7a10bb6dd1f89d050760b866a0ba77f",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/e2ab3d709e16f919a685f57043c6ec81d5f59547/Tools/atualizar_consulta_rapida_mac.command"
 }
