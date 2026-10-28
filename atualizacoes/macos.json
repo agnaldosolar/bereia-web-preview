@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.12",
-  "fileName": "atualizar_regras_dicionario_mac.command",
-  "sha256": "06cc1b68dcc91569ee4eaf0ad7393a7c2e8c8e695e76d51d6f47a8afb49d8a15",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/494a77b3afb96e1d0c1e2eabca3958fa8e823ee0/Tools/atualizar_regras_dicionario_mac.command"
+  "release": "2026-10-28.13",
+  "fileName": "atualizar_todos_trabalhos_mac.command",
+  "sha256": "7c5627385752cec148379260c357d0667637c70b262f4d0236ef9f5860ab8c38",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/ede3a437bd9306ca900a85a95b9068eb9a9dad1a/Tools/atualizar_todos_trabalhos_mac.command"
 }
