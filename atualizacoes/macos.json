@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.10",
-  "fileName": "atualizar_consulta_rapida_mac.command",
-  "sha256": "22a6f6111da5dd1daa5fed552b1b0756e7a10bb6dd1f89d050760b866a0ba77f",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/e2ab3d709e16f919a685f57043c6ec81d5f59547/Tools/atualizar_consulta_rapida_mac.command"
+  "release": "2026-10-28.11",
+  "fileName": "atualizar_legenda_palavras_mac.command",
+  "sha256": "c2cf75fdaa9ad675690324d836caa29231dd44ee9ddc80cdfff15dacfbb395be",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/a18d49cd227bcdf03db9465c55b2e9597be538aa/Tools/atualizar_legenda_palavras_mac.command"
 }
