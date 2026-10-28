@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.3",
-  "fileName": "atualizar_sermao_limpo_mac.command",
-  "sha256": "b7b498ed4782453a0fa5902b8d0ab77588bbec53b711610236d207839ee0b697",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/4fc64a94e8a636815904983fe0a70c28da89f2c4/Tools/atualizar_sermao_limpo_mac.command"
+  "release": "2026-10-28.4",
+  "fileName": "atualizar_digitacao_fluida_mac.command",
+  "sha256": "6a596586485d368a2017919293393bccb0a7f9fa03c04b33e2c04e48054f1c23",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/af05bb363f12dcecabd5a76e379496a210a92872/Tools/atualizar_digitacao_fluida_mac.command"
 }
