@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-27.20",
-  "fileName": "atualizar_creditos_compartilhados_mac.command",
-  "sha256": "2c9ef285c2b89bfc51a01df1a6111958d75696a9688af821f982f04591f75db6",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/8d1e3cf437a089a1ee74283b8a90acde5b488a5c/Tools/atualizar_creditos_compartilhados_mac.command"
+  "release": "2026-10-28.1",
+  "fileName": "atualizar_sermao_expositivo_mac.command",
+  "sha256": "1363d8505106df15cb7e322a7ab1158ea905bc74abe38f717211a082fa51826e",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/be9af97b582847133190099de7a2e25716ec26aa/Tools/atualizar_sermao_expositivo_mac.command"
 }
