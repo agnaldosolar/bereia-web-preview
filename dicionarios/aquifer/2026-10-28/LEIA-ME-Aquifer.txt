@@ -9,4 +9,4 @@ Modificação: reunião dos 27 documentos Word em ordem numérica em um único a
 
 Bereia: Biblioteca > Importar livro > selecionar Dicionario-Biblico-Aquifer-Portugues.docx. A instalação no Mac do usuário não foi realizada por esta publicação.
 
-Versão compatível com o Bereia: Dicionario-Biblico-Aquifer-Portugues-compativel.docx. Formatação interna repetida foi simplificada, preservando os textos e limites de parágrafo, destaques e relações do documento. O componente textual tem 12.206.147 bytes, dentro do limite de 16 MiB do importador. Não exige atualização do aplicativo.
+Bereia: antes de importar o volume completo, instale a entrega 2026-10-28.7 ou posterior (Configurações > Atualizar Bereia). Ela permite o tamanho deste dicionário e lê seu XML em fluxo. O documento Word original reunido permanece inalterado.
