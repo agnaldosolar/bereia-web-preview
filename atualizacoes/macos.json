@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.7",
-  "fileName": "atualizar_dicionarios_mac.command",
-  "sha256": "06563bc29359f40cd050499f193eb5576121c5e79c38dd9cc7f43b044f9c5ff2",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/85b4375038587c29011e0256b2a820e8c9c1504f/Tools/atualizar_dicionarios_mac.command"
+  "release": "2026-10-28.8",
+  "fileName": "atualizar_dicionario_contextual_mac.command",
+  "sha256": "d23ebdd53d7ff56ad6db116e3ab2bd59abf28e7ecf0707803e804e19d01bc506",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/9da140539d7ae7281c88139ec2d552c9d1761d03/Tools/atualizar_dicionario_contextual_mac.command"
 }
