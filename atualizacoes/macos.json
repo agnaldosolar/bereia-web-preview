@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.11",
-  "fileName": "atualizar_legenda_palavras_mac.command",
-  "sha256": "c2cf75fdaa9ad675690324d836caa29231dd44ee9ddc80cdfff15dacfbb395be",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/a18d49cd227bcdf03db9465c55b2e9597be538aa/Tools/atualizar_legenda_palavras_mac.command"
+  "release": "2026-10-28.12",
+  "fileName": "atualizar_regras_dicionario_mac.command",
+  "sha256": "06cc1b68dcc91569ee4eaf0ad7393a7c2e8c8e695e76d51d6f47a8afb49d8a15",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/494a77b3afb96e1d0c1e2eabca3958fa8e823ee0/Tools/atualizar_regras_dicionario_mac.command"
 }
