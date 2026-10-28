@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.4",
-  "fileName": "atualizar_digitacao_fluida_mac.command",
-  "sha256": "6a596586485d368a2017919293393bccb0a7f9fa03c04b33e2c04e48054f1c23",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/af05bb363f12dcecabd5a76e379496a210a92872/Tools/atualizar_digitacao_fluida_mac.command"
+  "release": "2026-10-28.5",
+  "fileName": "atualizar_revisao_palavras_mac.command",
+  "sha256": "3edddb14d6322fdbb736ec0b30fd1669d9a9bf6e0f3ff9e06f0e67656eaf1cf3",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/6ade254c91ec14d7cf7a9d7f58f5fe40774fdc69/Tools/atualizar_revisao_palavras_mac.command"
 }
