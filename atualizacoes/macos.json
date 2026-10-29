@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.8",
-  "fileName": "atualizar_insercao_biblica_quadros_mac.command",
-  "sha256": "4316e584d7b9fc8ba67eec9390b269a3a91caef11fbcf6275bd8b0839e5fe8b1",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/c36d3475de695ff8a5cab204c051698070ef7f0d/Tools/atualizar_insercao_biblica_quadros_mac.command"
+  "release": "2026-10-29.9",
+  "fileName": "atualizar_digitacao_sombreamento_mac.command",
+  "sha256": "177b07275d21b3bee49ce48f2ccd7769702e63f9f4237a54ed28ab5bcda5da6b",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/f6e416ac9675deb3ff4fcb2c0db4f15f147d0c07/Tools/atualizar_digitacao_sombreamento_mac.command"
 }
