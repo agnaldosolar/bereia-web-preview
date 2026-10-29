@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.5",
-  "fileName": "atualizar_leitura_cronometro_mac.command",
-  "sha256": "89316cc7ee8d7e1d2b841f9733361663328d9607be1dd52af22ffddae66325ba",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/05651907dabbfdcbf27fb987911f3bd00c2c3d02/Tools/atualizar_leitura_cronometro_mac.command"
+  "release": "2026-10-29.6",
+  "fileName": "atualizar_importacao_passagens_mac.command",
+  "sha256": "a2f1a2d8b65b6e679f589c6f6fdef6ab53fabdaae16038d2e1d1f12253bd1df8",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/32394afefdbd42faf1677574c2a38890ec6d3496/Tools/atualizar_importacao_passagens_mac.command"
 }
