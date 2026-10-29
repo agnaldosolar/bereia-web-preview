@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.10",
-  "fileName": "atualizar_estabilidade_quadros_mac.command",
-  "sha256": "44d8531b9ac84f27621c85f72d4157d11b280c83a81e5262aa2d4d2c9449d62e",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/f7cf39c128d0a1ec0072f0368ba6444c18a0d647/Tools/atualizar_estabilidade_quadros_mac.command"
+  "release": "2026-10-29.11",
+  "fileName": "atualizar_menus_personalizacao_mac.command",
+  "sha256": "88fccfd7423bb193329f4e729de23da3a1736f1326147335e631235927caa4f4",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/3ee3048fe1d9cf9ec79ea0062026716d299e7123/Tools/atualizar_menus_personalizacao_mac.command"
 }
