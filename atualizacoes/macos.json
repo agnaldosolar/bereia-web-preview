@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.9",
-  "fileName": "atualizar_digitacao_sombreamento_mac.command",
-  "sha256": "177b07275d21b3bee49ce48f2ccd7769702e63f9f4237a54ed28ab5bcda5da6b",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/f6e416ac9675deb3ff4fcb2c0db4f15f147d0c07/Tools/atualizar_digitacao_sombreamento_mac.command"
+  "release": "2026-10-29.10",
+  "fileName": "atualizar_estabilidade_quadros_mac.command",
+  "sha256": "44d8531b9ac84f27621c85f72d4157d11b280c83a81e5262aa2d4d2c9449d62e",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/f7cf39c128d0a1ec0072f0368ba6444c18a0d647/Tools/atualizar_estabilidade_quadros_mac.command"
 }
