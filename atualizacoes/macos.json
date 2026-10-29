@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-28.13",
-  "fileName": "atualizar_todos_trabalhos_mac.command",
-  "sha256": "7c5627385752cec148379260c357d0667637c70b262f4d0236ef9f5860ab8c38",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/ede3a437bd9306ca900a85a95b9068eb9a9dad1a/Tools/atualizar_todos_trabalhos_mac.command"
+  "release": "2026-10-29.1",
+  "fileName": "atualizar_curso_orientacoes_mac.command",
+  "sha256": "a9b6bae0be6302309c42d146901516e1a4640c688b8177329df2ee7b8cd07177",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/201cba74017c4566208cb234a087a32e643d7d98/Tools/atualizar_curso_orientacoes_mac.command"
 }
