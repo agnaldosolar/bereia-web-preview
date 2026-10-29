@@ -1,0 +1,40 @@
+Assunto: Solicitação de autorização — Tradução do Novo Mundo no aplicativo Bereia
+
+À Associação Torre de Vigia de Bíblias e Tratados,
+Aos responsáveis pelos direitos autorais da Tradução do Novo Mundo,
+
+Solicito orientação e autorização por escrito para disponibilizar a Tradução do Novo Mundo da Bíblia Sagrada, em português, no Bereia, aplicativo de estudo bíblico de tradição reformada que permite leitura, pesquisa e comparação de traduções e preparação de trabalhos.
+
+O uso pretendido é armazenar o texto bíblico localmente, para consulta offline no leitor de Bíblias, com navegação por livro, capítulo e versículo. A inclusão não indicaria vínculo institucional, endosso ou aprovação do Bereia por parte das Testemunhas de Jeová.
+
+Antes de realizar qualquer conversão ou distribuição, solicito esclarecer:
+
+1. Se autorizam a incorporação do texto integral em um aplicativo independente e quais condições se aplicam ao uso pessoal e à eventual distribuição a outros usuários.
+2. Qual edição portuguesa pode ser utilizada e se é possível obter arquivo estruturado oficial, com sua numeração original.
+3. Qual atribuição, aviso de copyright e identificação da edição devem acompanhar o texto.
+4. Quais condições se aplicam à reprodução de trechos pelos usuários em seus próprios trabalhos e à exportação desses trechos.
+5. Se existe licença, contrato, custo, limitação territorial, prazo ou restrição relacionada à modalidade de distribuição do aplicativo.
+6. Qual departamento deve receber a descrição técnica do projeto e os dados do responsável para análise do pedido.
+
+O texto bíblico seria preservado, sem tradução automática, alterações de conteúdo ou substituição de palavras. Notas e materiais de estudo adicionais somente seriam incluídos se expressamente autorizados.
+
+Caso este não seja o departamento responsável, agradeço o encaminhamento ao setor competente ou a indicação do contato apropriado.
+
+Atenciosamente,
+[Nome do responsável pelo Bereia]
+[Contato para resposta]
+[Informar a modalidade pretendida: uso pessoal, distribuição gratuita ou comercial]
+
+---
+Rascunho preparado em 29/10/2026. Não enviado. Não representa autorização obtida.
+
+Contato oficial da filial brasileira:
+https://www.jw.org/pt/testemunhas-de-jeova/contato/brasil/
+Associação Torre de Vigia de Bíblias e Tratados
+Rodovia SP-141, km 43 — Cesário Lange, SP — 18285-901 — Brasil
+Telefone: +55 15 3322 9000
+
+Condições de uso a considerar:
+https://www.jw.org/pt/termos-de-uso/
+
+O endereço DeveloperSupport@jw.org consta dos termos do JW Library para pedidos técnicos específicos relacionados ao aplicativo. Não foi confirmado como canal de licenciamento do texto bíblico; por isso, não é apresentado aqui como destinatário responsável pelos direitos da tradução.

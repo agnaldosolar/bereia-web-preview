@@ -1,0 +1,34 @@
+BÍBLIA CATÓLICA E TRADUÇÃO DO NOVO MUNDO — CONFERÊNCIA
+29/10/2026
+
+RESULTADO
+Nenhuma edição nova foi instalada ou anunciada no canal de atualizações do Bereia. As edições anteriores permanecem intactas.
+
+FIGUEIREDO
+A tradução histórica está em domínio público; isso não certifica a integridade de qualquer transcrição digital nem a situação de notas e revisões posteriores.
+
+Foram auditados os arquivos de 73 livros em cada um dos dois repositórios abaixo, com os commits e hashes por arquivo registrados em auditoria_fontes_figueiredo.json. Os textos obtidos para análise não são redistribuídos neste pacote.
+
+1. gpadova/biblia-chat-server, commit e2a00af6908ceeba37c779c4a46c3ad8f9decf60:
+35.809 registros de versículos; 1.294 vazios (aproximadamente 3,6%). O próprio README informa lacunas na extração da impressão de 1950.
+https://github.com/gpadova/biblia-chat-server/blob/e2a00af6908ceeba37c779c4a46c3ad8f9decf60/README.md
+
+2. ronaldomelofz/abibliasagrada, commit 233ac4ad6bde31a3c328c03fcad3ed1c6fbafe45:
+33.780 registros, sem campos de texto vazios. A ausência de campos vazios não comprova completude. Na amostra manual de Gênesis 1:3 há comentário editorial e referência a publicação moderna misturados ao campo do versículo; a amostra adjacente também contém problemas de OCR. O repositório não declara licença explícita para sua compilação. Não foi aprovado para conversão e distribuição como módulo bíblico.
+https://github.com/ronaldomelofz/abibliasagrada/blob/233ac4ad6bde31a3c328c03fcad3ed1c6fbafe45/web/data/livros/genesis.json
+
+3. Biblioteca online bibliatraduzida.com:
+O site informa revisão em andamento; páginas como Jó 1 informam que o capítulo ainda não foi transcrito, exibindo o PDF em seu lugar. Não foi certificada uma transcrição integral apropriada ao leitor por versículos do Bereia.
+https://bibliatraduzida.com/
+https://bibliatraduzida.com/figueiredo/jo/1/
+
+Uma imagem digitalizada histórica em PDF permite consulta à edição, mas não equivale a um módulo pesquisável e comparável por versículos. Não foram preenchidas lacunas, misturadas traduções ou feitas correções bíblicas por IA.
+
+TRADUÇÃO DO NOVO MUNDO
+Os termos oficiais restringem a distribuição do conteúdo dentro de outros aplicativos. O pedido de autorização está preparado em arquivo separado e não foi enviado. O contato oficial brasileiro acompanha o pedido.
+https://www.jw.org/pt/termos-de-uso/
+https://www.jw.org/pt/testemunhas-de-jeova/contato/brasil/
+
+PARA CONCLUIR A INCLUSÃO
+Figueiredo: é necessária uma transcrição com procedência e condições de reutilização verificadas, sem lacunas de extração ou notas confundidas com versículos, seguida da conferência de numeração, livros deuterocanônicos e acréscimos de Ester e Daniel.
+Tradução do Novo Mundo: é necessária autorização específica por escrito e a fonte autorizada para conversão.

@@ -1,0 +1,1340 @@
+{
+  "checkedOn": "2026-10-29",
+  "decision": "not_installed",
+  "sources": [
+    {
+      "repository": "gpadova/biblia-chat-server",
+      "commit": "e2a00af6908ceeba37c779c4a46c3ad8f9decf60",
+      "books": 73,
+      "verseRecords": 35809,
+      "emptyRecords": 1294,
+      "files": [
+        {
+          "path": "corpus/1co.json",
+          "sha256": "b0b4a1e0ca32198857c060c80dae90959f07cb42e7227cafff5420e0750c490d",
+          "chapters": 16,
+          "verseRecords": 437,
+          "emptyRecords": 19,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/1cr.json",
+          "sha256": "a0d12e9ba624fb7e3edbb8d8a8e5b276c557efd6bf2818bd50e595bbbea7c738",
+          "chapters": 29,
+          "verseRecords": 940,
+          "emptyRecords": 22,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/1jo.json",
+          "sha256": "6d9ec24f1bdfc13187c6c073546f523ff99a19f2faff7132474727bc3ca18d5e",
+          "chapters": 5,
+          "verseRecords": 105,
+          "emptyRecords": 4,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/1mc.json",
+          "sha256": "a0589d884c7dda769d986497c4f48bc857716c85277b46617830c8f63a67d158",
+          "chapters": 16,
+          "verseRecords": 929,
+          "emptyRecords": 16,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/1pe.json",
+          "sha256": "baae24486e50f746a193b7b5c3396552bbad7858df1a43b6389d3165d3f726d3",
+          "chapters": 5,
+          "verseRecords": 105,
+          "emptyRecords": 3,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/1rs.json",
+          "sha256": "042fe4e16e918e13909b2cef301e71ca6c6b5d926cb37c01902e644b90cf8410",
+          "chapters": 22,
+          "verseRecords": 817,
+          "emptyRecords": 11,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/1sm.json",
+          "sha256": "b738660dd05ad48d31bf4bc85c58d05038a9505911557e785d92bdf79615a673",
+          "chapters": 31,
+          "verseRecords": 811,
+          "emptyRecords": 17,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/1tm.json",
+          "sha256": "03770a6c6198a23176cd846819c40cdf65c184e0d543ee6270aee8f46d4630f6",
+          "chapters": 6,
+          "verseRecords": 113,
+          "emptyRecords": 17,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/1ts.json",
+          "sha256": "bd5514e920fa4d8941615a28328b8dcd87caf5e03757eb6fbc4df9fbaa43baa5",
+          "chapters": 5,
+          "verseRecords": 89,
+          "emptyRecords": 10,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/2co.json",
+          "sha256": "c30cb9ee568f85b93bcd942c436b8648baa00ef9c06cfca592e690b2a1634ce1",
+          "chapters": 13,
+          "verseRecords": 255,
+          "emptyRecords": 34,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/2cr.json",
+          "sha256": "746099f264b66c18818517b3818e451cc69cb9e156e94ef1fb9708e576a95e78",
+          "chapters": 36,
+          "verseRecords": 822,
+          "emptyRecords": 21,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/2jo.json",
+          "sha256": "8c616e39fb0e3a57f8857a239231307597ac82d57a15db0e6d761b43ae6b7775",
+          "chapters": 1,
+          "verseRecords": 13,
+          "emptyRecords": 3,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/2mc.json",
+          "sha256": "3cc1641f1f81a182755136473ef7dac56131268b25d8eda08d2e64c1ddbe734b",
+          "chapters": 15,
+          "verseRecords": 558,
+          "emptyRecords": 13,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/2pe.json",
+          "sha256": "dcb1103a4aac66b8f35270a9770699a48e83304dd285d2a80b2dd7b1abe1e99a",
+          "chapters": 3,
+          "verseRecords": 61,
+          "emptyRecords": 2,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/2rs.json",
+          "sha256": "6049ad0eda3d7a7c8a4fce81981aa051454b4740c344d63cebefba2233d2a582",
+          "chapters": 25,
+          "verseRecords": 719,
+          "emptyRecords": 15,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/2sm.json",
+          "sha256": "c2045a18fee2ed8dfe933d1b3443522a017b456468c5810ad55c3c754b895c03",
+          "chapters": 24,
+          "verseRecords": 695,
+          "emptyRecords": 25,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/2tm.json",
+          "sha256": "1186df427dc89f31c606e336c6f9c178315c7186737cab5450f3d3a88e52a479",
+          "chapters": 4,
+          "verseRecords": 83,
+          "emptyRecords": 5,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/2ts.json",
+          "sha256": "8649cc64a38b1ad790c07dfe2f87c18722579fd2396befdfe6397d5b692922ba",
+          "chapters": 3,
+          "verseRecords": 47,
+          "emptyRecords": 2,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/3jo.json",
+          "sha256": "145221663c982091ab3bf494ed229749e60b44b26578bf13401c8a22bb968e1e",
+          "chapters": 1,
+          "verseRecords": 14,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/ab.json",
+          "sha256": "f638cd8b096a987f1c64d5b092cef435b499703df8975ba3328eeb01f3c2dcdf",
+          "chapters": 1,
+          "verseRecords": 21,
+          "emptyRecords": 2,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/ag.json",
+          "sha256": "768c956e4730bb374701bac424ee4cb79238cb02c4ef3bd2b4c53f9b05743305",
+          "chapters": 2,
+          "verseRecords": 38,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/am.json",
+          "sha256": "a396a40dda0c1f60894b338a02a5966ca66088251e62246a7272adb7626449f7",
+          "chapters": 9,
+          "verseRecords": 147,
+          "emptyRecords": 13,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/ap.json",
+          "sha256": "2d79430dd8a65679363e330eb00d1da40ba0dcca0986cde5b27069729b4c1024",
+          "chapters": 22,
+          "verseRecords": 405,
+          "emptyRecords": 34,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/at.json",
+          "sha256": "8a40d25b6b4771eca74e707ec557ba851271ce6365ecdd519cbdc47e5f5a9ef3",
+          "chapters": 28,
+          "verseRecords": 1004,
+          "emptyRecords": 50,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/br.json",
+          "sha256": "7cac5c76a975ca5851db7085669532e4a6c860cb0430c1a660238f7c5befc18f",
+          "chapters": 6,
+          "verseRecords": 213,
+          "emptyRecords": 2,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/cl.json",
+          "sha256": "977dd22629abc070f520c33b4bb09f04621a8bda61c4011e17e1639b4caaa0f1",
+          "chapters": 4,
+          "verseRecords": 95,
+          "emptyRecords": 3,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/ct.json",
+          "sha256": "fc4760d961f0202cd5b6edce9ddef1d6391256a063dc33bd942e785e583683a5",
+          "chapters": 8,
+          "verseRecords": 116,
+          "emptyRecords": 9,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/dn.json",
+          "sha256": "98fd10369c456971e33d1a4f96695ab46549573d51d3d900b2ea9de1fbc5cca3",
+          "chapters": 14,
+          "verseRecords": 531,
+          "emptyRecords": 13,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/dt.json",
+          "sha256": "c2f8c030bd49992f7705a3f49cc8fffe0802075cd398ac2cba9c52b3f6fb9be0",
+          "chapters": 34,
+          "verseRecords": 959,
+          "emptyRecords": 22,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/ec.json",
+          "sha256": "8ba2584e563b4cd83d4f2f2e68e697883ccf3331c7f573162dd16d798567871a",
+          "chapters": 12,
+          "verseRecords": 222,
+          "emptyRecords": 1,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/eclo.json",
+          "sha256": "264ba63d199023d7864c9feb2ae0461b04437e27ac1c25e3ffaaef4432faaf9e",
+          "chapters": 51,
+          "verseRecords": 1592,
+          "emptyRecords": 26,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/ef.json",
+          "sha256": "ce22271106d694e727fdfcad29b12b9a63890be98ab0d88e67d0d8d62471e6ea",
+          "chapters": 6,
+          "verseRecords": 155,
+          "emptyRecords": 4,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/esd.json",
+          "sha256": "eb910dc19fe6364de50bf65678a5946b8d8bb686bd417b1a85370bd6ba7a94cb",
+          "chapters": 10,
+          "verseRecords": 280,
+          "emptyRecords": 12,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/et.json",
+          "sha256": "5024f62b35346f9df89058ed8c61910af5b668fd70acc0f3bb846e994acb109d",
+          "chapters": 16,
+          "verseRecords": 275,
+          "emptyRecords": 3,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/ex.json",
+          "sha256": "280f031ef2c4ec1624a10445ca8c0b93f1331f0dd6af7f51b0e99f8b5762080b",
+          "chapters": 40,
+          "verseRecords": 1211,
+          "emptyRecords": 64,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/ez.json",
+          "sha256": "69b795f61e216d2319a243b38d5583546321051b6f2d3af43ac089f80c766dcb",
+          "chapters": 48,
+          "verseRecords": 1272,
+          "emptyRecords": 28,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/fm.json",
+          "sha256": "f1816e64ce93c5d6861ff5a38b2f3840a585cb56021b0f7136c765b31e21ae25",
+          "chapters": 1,
+          "verseRecords": 25,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/fp.json",
+          "sha256": "5d0162230eaa751e231b239ed1e3ef5d6ea1e43227745dc6b599ce486f89faf6",
+          "chapters": 4,
+          "verseRecords": 104,
+          "emptyRecords": 2,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/gl.json",
+          "sha256": "555f6f9ce21440d31b3528aa6864820ce1ea54b6e7ebfcf6de34c7bf3937352d",
+          "chapters": 6,
+          "verseRecords": 149,
+          "emptyRecords": 4,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/gn.json",
+          "sha256": "de607d5fec198e020507bf71985421709eee41acfcf8f1b83b468a0869ac9f2e",
+          "chapters": 50,
+          "verseRecords": 1530,
+          "emptyRecords": 36,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/hb.json",
+          "sha256": "fa1a65198903d4b35f8ab4c8949897ebd5e284423b18c313dfbf3297b9369f7e",
+          "chapters": 13,
+          "verseRecords": 303,
+          "emptyRecords": 24,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/hc.json",
+          "sha256": "8f1d18c7c370f7d115a6e51e71ed5c36c6a62ef360aa2e8edfe6ea5a2afcc720",
+          "chapters": 3,
+          "verseRecords": 56,
+          "emptyRecords": 5,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/is.json",
+          "sha256": "ab9e0ce1e00748837e9e86c8bd8dcb4b072851628f2c931ca1e2280450793ec5",
+          "chapters": 66,
+          "verseRecords": 1292,
+          "emptyRecords": 34,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/jd.json",
+          "sha256": "9b031c4e65ea9b6e07d50947e34764e90ddef0f7142c74a8ae6826835f2110ab",
+          "chapters": 1,
+          "verseRecords": 25,
+          "emptyRecords": 1,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/jdt.json",
+          "sha256": "ecc27e55478aec816ca99286b0983a31a3a7c3eda9d79f8b701a6450ab68090a",
+          "chapters": 16,
+          "verseRecords": 346,
+          "emptyRecords": 5,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/jl.json",
+          "sha256": "72875687a440246860bc46bd254a45f5ca095a5f86cc528bc6f666bbe45d952f",
+          "chapters": 3,
+          "verseRecords": 73,
+          "emptyRecords": 3,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/jn.json",
+          "sha256": "bb1c0a2bccef0b86f9d1e8bd4044179b63ba2b016b916f3413fb2e36f7e5a128",
+          "chapters": 4,
+          "verseRecords": 48,
+          "emptyRecords": 9,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/jo.json",
+          "sha256": "c3479dba95ff0f08f34dba6f4280ed78a9ef0fac84ba6c8799fbe45504844a5b",
+          "chapters": 21,
+          "verseRecords": 879,
+          "emptyRecords": 52,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/job.json",
+          "sha256": "e800ebad2bff8f6a41ab2a266c57f37e295919121bf2c22c868b60b89baa6458",
+          "chapters": 42,
+          "verseRecords": 1070,
+          "emptyRecords": 31,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/jr.json",
+          "sha256": "dd0fc8916f28a5d4976732f8ac0c17c257644bb56d82c967144301134199abfb",
+          "chapters": 52,
+          "verseRecords": 1363,
+          "emptyRecords": 27,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/js.json",
+          "sha256": "5d3f10ca72fde7048af06c42f9189d46dd46df3a34f85081c1c504c3b48250cc",
+          "chapters": 24,
+          "verseRecords": 658,
+          "emptyRecords": 13,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/jz.json",
+          "sha256": "af02fed7b3f1ce378028cf0da2262c918a005551242370c8ecddf88ea21b38cb",
+          "chapters": 21,
+          "verseRecords": 618,
+          "emptyRecords": 36,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/lc.json",
+          "sha256": "d7741b67f4d74e9b1186bc645d1800db707f96aa5a53712d44551a92204a9efc",
+          "chapters": 24,
+          "verseRecords": 1151,
+          "emptyRecords": 56,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/lm.json",
+          "sha256": "f8810c9cfc1585dba473b4addbab2531f79e265f2baddd4edcc14544fa2d114b",
+          "chapters": 5,
+          "verseRecords": 154,
+          "emptyRecords": 2,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/lv.json",
+          "sha256": "f5358cecdb8197a65d68b6ee2cc8157f8f3b146860bd9ff98c65e2c0bb8d1ffd",
+          "chapters": 27,
+          "verseRecords": 858,
+          "emptyRecords": 24,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/mc.json",
+          "sha256": "f9c2e4db8bfcff23b2687f9e525284c8b91dcda698e7f866b91ae12b1101f3e2",
+          "chapters": 16,
+          "verseRecords": 677,
+          "emptyRecords": 37,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/ml.json",
+          "sha256": "9033b230c715ea9f7768e5ea7f41b0c7c528a33540e2afddbf0c25536a61b762",
+          "chapters": 4,
+          "verseRecords": 55,
+          "emptyRecords": 1,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/mq.json",
+          "sha256": "1affffda201cd47eac62107b1c247ce130a0ba2fd89c2a8bf6f00241ecc2deb3",
+          "chapters": 7,
+          "verseRecords": 104,
+          "emptyRecords": 6,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/mt.json",
+          "sha256": "8ed8f6e70cf4d1c5ce8308f5fff1aa2b43b8360f34b02ee14c51d4c80771b99a",
+          "chapters": 28,
+          "verseRecords": 1070,
+          "emptyRecords": 88,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/na.json",
+          "sha256": "8b3c85bd9c191da5e9323aae1e346982a406e50f1426f3dfac34333920e5face",
+          "chapters": 3,
+          "verseRecords": 47,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/ne.json",
+          "sha256": "caf33255dc480eb74fd6b7dd1d4b34e2f886a93856e5c69339c115309eabe6d4",
+          "chapters": 13,
+          "verseRecords": 404,
+          "emptyRecords": 7,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/nm.json",
+          "sha256": "59014271041854911ecd654e2cc55653b73d3b7d636ebe7d833c8baa7b5cdbcc",
+          "chapters": 36,
+          "verseRecords": 1288,
+          "emptyRecords": 41,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/os.json",
+          "sha256": "3673639a2b324cc87072bdd64321c160d1192305d4a111dde5f1ce7c6fe5039c",
+          "chapters": 14,
+          "verseRecords": 198,
+          "emptyRecords": 8,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/pr.json",
+          "sha256": "1fe52f79c00130fa6cc5bc2a35a19ce379c64706a23c8f64c08e44359af07d80",
+          "chapters": 31,
+          "verseRecords": 915,
+          "emptyRecords": 24,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/rm.json",
+          "sha256": "12386ac181578c3d70a604771d0b8acfc4995dbfa8cfbd221e6fa4e299ce8c69",
+          "chapters": 16,
+          "verseRecords": 433,
+          "emptyRecords": 26,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/rt.json",
+          "sha256": "4242d764c3fa18a3152dbe87223bc10b91e98f8d567a33400f3aec5a01588e80",
+          "chapters": 4,
+          "verseRecords": 85,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/sb.json",
+          "sha256": "845d6e15271a683e680e02bd242092d62ffd8d9528f770c0b4daf35ae6f8f8b6",
+          "chapters": 19,
+          "verseRecords": 439,
+          "emptyRecords": 4,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/sf.json",
+          "sha256": "91cabe966729b921bcd932c8dcfa3bb9d7e41ab7ee0e64a262bbc86ea2e2c3c7",
+          "chapters": 3,
+          "verseRecords": 53,
+          "emptyRecords": 1,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/sl.json",
+          "sha256": "7feabe7233e6beb8210c83b6fdeec25b33c4c133bd4a5ada861c30dd5d31fb25",
+          "chapters": 150,
+          "verseRecords": 2527,
+          "emptyRecords": 127,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/tb.json",
+          "sha256": "8ab3cdd23cade7c1ca28568e9d2f27d86cd81e357fbd83c33da58ac50d9d1658",
+          "chapters": 14,
+          "verseRecords": 298,
+          "emptyRecords": 10,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/tg.json",
+          "sha256": "9d05a1a88d3c1e7f3d96fd33f8b7cf80ee0bdc55eb2def50f533c10da280c3bb",
+          "chapters": 5,
+          "verseRecords": 108,
+          "emptyRecords": 14,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/tt.json",
+          "sha256": "c4a33609774b651b55dc900e23b4cd27be60a9eaff94caf7de8d4c308ad12df9",
+          "chapters": 3,
+          "verseRecords": 46,
+          "emptyRecords": 5,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "corpus/zc.json",
+          "sha256": "3a05d50969cf2987e5f9a19eb0b9c16b2f67303764598b0ebe48f83228c4bf68",
+          "chapters": 14,
+          "verseRecords": 211,
+          "emptyRecords": 6,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        }
+      ],
+      "rejectionReason": "Upstream README declares approximately 3.6% unrecovered scan verses. Empty records and complete fidelity cannot be replaced by guessed text."
+    },
+    {
+      "repository": "ronaldomelofz/abibliasagrada",
+      "commit": "233ac4ad6bde31a3c328c03fcad3ed1c6fbafe45",
+      "books": 73,
+      "verseRecords": 33780,
+      "emptyRecords": 0,
+      "files": [
+        {
+          "path": "web/data/livros/1-corintios.json",
+          "sha256": "fdc3163e4c832ce1ce332805df120bbc1e57f735a355ada48dc8dd17bdae3a59",
+          "chapters": 16,
+          "verseRecords": 385,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/1-cronicas.json",
+          "sha256": "d13d2aa50296c1198b4b755956272c2935f9b357459ff74a9d6be1f493ea566b",
+          "chapters": 29,
+          "verseRecords": 889,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/1-joao.json",
+          "sha256": "2bca7ba5692cb0a16c55f0b5a838fdcfe97908e090194a736155bb9706b840cd",
+          "chapters": 5,
+          "verseRecords": 86,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/1-macabeus.json",
+          "sha256": "33b5e205eedd2bfd9122070ac0b676134066bd059d28e81817d50e2ebb538bb0",
+          "chapters": 16,
+          "verseRecords": 771,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/1-pedro.json",
+          "sha256": "b63cf47f3bdc0ebf9054e0ba8f24f0caf270fd2443a4b3ece462c3e95aa9344a",
+          "chapters": 5,
+          "verseRecords": 101,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/1-reis.json",
+          "sha256": "d1f897a8e42613eb4b170bb9743caa57fcd23d66278fdf9356e757bc68982acb",
+          "chapters": 22,
+          "verseRecords": 770,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/1-samuel.json",
+          "sha256": "03f9f91c826d53bb2d5d68f5ad504623d0622f1bca6731f0ad99239ac59692fa",
+          "chapters": 31,
+          "verseRecords": 770,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/1-tessalonicenses.json",
+          "sha256": "8960ae34deb521caa62fda913cd0ae8426c1703729a6ce061e35f7ea503910bb",
+          "chapters": 5,
+          "verseRecords": 84,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/1-timoteo.json",
+          "sha256": "8654ab47265ac25dd3afda880350882033d15b98756ce61c245a4c9269753830",
+          "chapters": 6,
+          "verseRecords": 108,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/2-corintios.json",
+          "sha256": "5cebfe0e2587f9a62e704002ed2c6cac7765408d2181d8891246dabb284977dc",
+          "chapters": 13,
+          "verseRecords": 240,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/2-cronicas.json",
+          "sha256": "663eb6f47961ad87881a497a10436cf055ac6ebbfc91b8c3648bf6f86d76e555",
+          "chapters": 36,
+          "verseRecords": 746,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/2-joao.json",
+          "sha256": "6996fe0de9727a62a5d23c60e788384c558df4a902f6c34cf31144a45ee4c38f",
+          "chapters": 1,
+          "verseRecords": 15,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/2-macabeus.json",
+          "sha256": "c793071ce01fffac696604aee0841160dba913e589f35c95ed0d9ccfe9b30abf",
+          "chapters": 15,
+          "verseRecords": 545,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 3
+        },
+        {
+          "path": "web/data/livros/2-pedro.json",
+          "sha256": "70db3c6efd0a1b41ffedeafd660fc80dd04aae7c503da47ebba496dcb0e05c94",
+          "chapters": 3,
+          "verseRecords": 52,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/2-reis.json",
+          "sha256": "af1906226e4c6413c1a387174939fe9d25c9ec3318809c333fe45215c53e6734",
+          "chapters": 25,
+          "verseRecords": 657,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/2-samuel.json",
+          "sha256": "c608100d84275e255ed58d69e2c3364395bd0e20e00ad855d384dac44c3a70c0",
+          "chapters": 24,
+          "verseRecords": 658,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/2-tessalonicenses.json",
+          "sha256": "a3919697f2ff7947d9c554c8c168cd21ae1125efcdec87c95ca00c29567e88ac",
+          "chapters": 3,
+          "verseRecords": 42,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/2-timoteo.json",
+          "sha256": "50be53a814074b590b0684709a45cc30b9856d5733917085fbc26a1f37ad9e3e",
+          "chapters": 4,
+          "verseRecords": 75,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/3-joao.json",
+          "sha256": "5834442ce6741536742c4f199290f74320c381cab6537e7cff6a9ee7ca77d1ea",
+          "chapters": 1,
+          "verseRecords": 9,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/abdias.json",
+          "sha256": "57dfa3940e95cd46651cb63c69841b19a9c0f39fe781aa749799687223b93a12",
+          "chapters": 1,
+          "verseRecords": 20,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/ageu.json",
+          "sha256": "6c1f08f1224e62626e85475c321ab4699e08d9b7248a8323f8195c69d48b9a9d",
+          "chapters": 2,
+          "verseRecords": 36,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/amos.json",
+          "sha256": "58935dcc9d5cc4177d2d3316dd7615eb83132d56e7a03f706b545ba7b6de5783",
+          "chapters": 9,
+          "verseRecords": 126,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/apocalipse.json",
+          "sha256": "a541c33db91fda629f7eb864c502f9e8783541ece91fad794f9832d48e4a7718",
+          "chapters": 22,
+          "verseRecords": 374,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/atos.json",
+          "sha256": "f0214d878b93454b43962bc97cd84ebba5b8bafd92be59e80b39fb691f49a509",
+          "chapters": 28,
+          "verseRecords": 915,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 2
+        },
+        {
+          "path": "web/data/livros/baruc.json",
+          "sha256": "720bb76d032889730a65b0b66f46c71068237c561e94caf2c35d744c2ed53d72",
+          "chapters": 6,
+          "verseRecords": 210,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/cantico.json",
+          "sha256": "02400a05cf3ad66264e7d47e2fd19866e047f8750a82e17a91a9410db6bf368c",
+          "chapters": 8,
+          "verseRecords": 114,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/colossenses.json",
+          "sha256": "bd04534b322217cb5a02fb3d0915dabe99f69ef7fcc0f0722324876000056af4",
+          "chapters": 4,
+          "verseRecords": 90,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/daniel.json",
+          "sha256": "346f0250ea9f29f1a4007d7c448d5fc7f4aed6b98752a19aa736da619ddc5a44",
+          "chapters": 14,
+          "verseRecords": 523,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 2
+        },
+        {
+          "path": "web/data/livros/deuteronomio.json",
+          "sha256": "37b3e9ea158b9db933eb0db573c61e09345a274d16980af3856e16bbb7a4e0fb",
+          "chapters": 34,
+          "verseRecords": 904,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/eclesiastes.json",
+          "sha256": "ed5116cf165554a6816d6d3401267b6ac30eb7f002387d223394b3a0221792a4",
+          "chapters": 12,
+          "verseRecords": 221,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/eclesiastico.json",
+          "sha256": "1ee14c85cf6dd4e7d06ec180698ba56faf0dccd43f15b95ba63397d996e33955",
+          "chapters": 51,
+          "verseRecords": 1565,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/efesios.json",
+          "sha256": "68e83c42429d310f90c7a25f5d3e64c95b96a4598e32ed203d45596d416ec551",
+          "chapters": 6,
+          "verseRecords": 148,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/esdras.json",
+          "sha256": "6042db54dac15956d749e7e89c83d5eba114dbba1fa150b953989ff93e67b9b9",
+          "chapters": 10,
+          "verseRecords": 269,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/ester.json",
+          "sha256": "fefec1275365da85ff03cf45bad4d002d6ddb02cb75cb705aa71a24e1079fc61",
+          "chapters": 16,
+          "verseRecords": 253,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/exodo.json",
+          "sha256": "08d48adef2b03f232a5dcf30b8d37926482f4474c0f5287bca21fea99790cb4b",
+          "chapters": 40,
+          "verseRecords": 1152,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/ezequiel.json",
+          "sha256": "758c7e6231558d60f9aafe54c3891a39f68a7b8240389a5885b8e20019b05867",
+          "chapters": 48,
+          "verseRecords": 1226,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 6
+        },
+        {
+          "path": "web/data/livros/filemom.json",
+          "sha256": "9373c86185637c8f96a6f2fce178a081dcf46cbbcf163f95c16dd41b9345a78c",
+          "chapters": 1,
+          "verseRecords": 13,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 2
+        },
+        {
+          "path": "web/data/livros/filipenses.json",
+          "sha256": "8d0a1bf222ef637481d90f2cecb31943945da38294afa2249b104a5a27b962a8",
+          "chapters": 4,
+          "verseRecords": 101,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/galatas.json",
+          "sha256": "c40a6dc1157fb13f70c5b6652e94c0c5a55212afbd3e770b7d6898f31d97963a",
+          "chapters": 6,
+          "verseRecords": 145,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/genesis.json",
+          "sha256": "1c06635f521796b1bf945460d6e9739a28a4e10f08cf4e1e7efda914241c8695",
+          "chapters": 50,
+          "verseRecords": 1482,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/habacuc.json",
+          "sha256": "6dd36b5a87cdf1de4e5860f813eae1632c21b60f58eb0b4b2d467069a7180706",
+          "chapters": 3,
+          "verseRecords": 55,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/hebreus.json",
+          "sha256": "198915dbe08c37650b52e2b8c869e9e3ac1b3dd9f37ee009f5a3d21ac4a7cfb9",
+          "chapters": 13,
+          "verseRecords": 272,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/isaias.json",
+          "sha256": "be9cb8e44a52aad282de309519d910f161feeac4c2ccbd39af843f51b282f4b3",
+          "chapters": 66,
+          "verseRecords": 1258,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 3
+        },
+        {
+          "path": "web/data/livros/jeremias.json",
+          "sha256": "715d28bbfcd4d21ef82d2bd873eda309498b735f1e831d6ec5e6118364250db1",
+          "chapters": 52,
+          "verseRecords": 1319,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/jo.json",
+          "sha256": "63c00839ce895533f4486a9c453beb1c5b28c0cbe17edef12443392910a55c2d",
+          "chapters": 42,
+          "verseRecords": 1014,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/joao.json",
+          "sha256": "99b7d13b8c7ef621f17dbd0285c3e5af4ac5916961d39bc74b62d482bb795fb4",
+          "chapters": 21,
+          "verseRecords": 809,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 4
+        },
+        {
+          "path": "web/data/livros/joel.json",
+          "sha256": "c55df1a781aa291f36f7f48b8dd84a9bcf92af69e8f94c1a5b4a06996daea31f",
+          "chapters": 3,
+          "verseRecords": 70,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/jonas.json",
+          "sha256": "8f1bcdd9fcaaba053a95b6bf1057ca766eb49afc5fce2cc93cc2243e7a4c5ac9",
+          "chapters": 4,
+          "verseRecords": 48,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/josue.json",
+          "sha256": "76e5bf7b5a774a010db74c84e41a51a8717a648996338ed84448b516e5dfd56f",
+          "chapters": 24,
+          "verseRecords": 599,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 2
+        },
+        {
+          "path": "web/data/livros/judas.json",
+          "sha256": "72b059054efc0fdf06f68b2db6c8ca5f48b22b4b923106ea8276cc1359ce0ddf",
+          "chapters": 1,
+          "verseRecords": 10,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/judite.json",
+          "sha256": "15285144a4967b7d98f3275134b47c01afe4e68be602cd16edc19e6c8674d71c",
+          "chapters": 16,
+          "verseRecords": 330,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/juizes.json",
+          "sha256": "a5411f1cd4ba5fa0fea79b3ecf8bbcd2a6be584ce46303dae16498ec30c5bf9e",
+          "chapters": 21,
+          "verseRecords": 595,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/lamentacoes.json",
+          "sha256": "4267eab675eb5b77c699fe24e42a1893ef0d741d14e248b2ed718addbb7c913e",
+          "chapters": 5,
+          "verseRecords": 153,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/levitico.json",
+          "sha256": "2e3e278a4eee57aca130803d47595e61a866341a728b48c95675d16543446ed7",
+          "chapters": 27,
+          "verseRecords": 829,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/lucas.json",
+          "sha256": "f95e4d72b8ee78ba8ea4e59d3965051ffac3f9f9d7936a551160521622b67834",
+          "chapters": 24,
+          "verseRecords": 1017,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 3
+        },
+        {
+          "path": "web/data/livros/malaquias.json",
+          "sha256": "db1f4bc0825b725ea5b961fba988b505defc5eef36a5b5f08c61678ef789a88d",
+          "chapters": 4,
+          "verseRecords": 53,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/marcos.json",
+          "sha256": "0401e11c66afef09655b141fc41700db0659632e84a625e98dc48db1edc59f85",
+          "chapters": 16,
+          "verseRecords": 619,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/mateus.json",
+          "sha256": "e343ad105fdf66f945c0ed16b1f1b269715aebe69bf279f4c083e5bcecb85272",
+          "chapters": 28,
+          "verseRecords": 985,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 4
+        },
+        {
+          "path": "web/data/livros/miqueias.json",
+          "sha256": "189204386f8a5e4c7e87e7f1e00d250c096cc16b093d0117546b626eaff64504",
+          "chapters": 7,
+          "verseRecords": 102,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/naum.json",
+          "sha256": "c317a1b944959433d1473456e0532ef401b0c4fee2fad60a3bca703e3eb4d2b5",
+          "chapters": 3,
+          "verseRecords": 47,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/neemias.json",
+          "sha256": "5730d668c0055fbf186110267a995123538f8de7a57dbd164a2df1ab209dc693",
+          "chapters": 13,
+          "verseRecords": 389,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/numeros.json",
+          "sha256": "f7e8b1cabd2ac08d49e096237e4fd43afda048842d8ea3170dc0c4309cf23336",
+          "chapters": 36,
+          "verseRecords": 1186,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/oseias.json",
+          "sha256": "22c131cdb785ece6c7e5235133afbd998297d14553b0189813414145cd1e15f5",
+          "chapters": 14,
+          "verseRecords": 195,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/proverbios.json",
+          "sha256": "fbf0971c276c2efbc89f354fd70c071b3e128762d1144ecc5315abd0c52c0f45",
+          "chapters": 31,
+          "verseRecords": 884,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/romanos.json",
+          "sha256": "afa01d77080b22e164551a6f05928ef7a0d1875e4c5a17500f928ca7fbc8a0fc",
+          "chapters": 16,
+          "verseRecords": 413,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 3
+        },
+        {
+          "path": "web/data/livros/rute.json",
+          "sha256": "f9807398bd603c2ba47ff444e1827e0feaa17e37c684e1be52d90ec1497f7e54",
+          "chapters": 4,
+          "verseRecords": 82,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/sabedoria.json",
+          "sha256": "f358772913dabd4b4d93f2e8760f02633a2f87e76e16698129589742177e4eca",
+          "chapters": 19,
+          "verseRecords": 435,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/salmos.json",
+          "sha256": "2c65bcfae6c336cfc09107630438f25055d075f29b4149ba92d6da9807574211",
+          "chapters": 150,
+          "verseRecords": 2443,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/sofonias.json",
+          "sha256": "d7dde7c90653d0d67ba5b633d52c489dbcff2a75aeec42331d47be5536c2c2d5",
+          "chapters": 3,
+          "verseRecords": 51,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/tiago.json",
+          "sha256": "56e0fc7ed1fba1858bdcc178a7f130b6b1c5f17aee88036604074a67ba782f22",
+          "chapters": 5,
+          "verseRecords": 93,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/tito.json",
+          "sha256": "712df64bb957ac04081b923a35928b234e6c441b952f00285ffc38374eb733e8",
+          "chapters": 3,
+          "verseRecords": 43,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 1
+        },
+        {
+          "path": "web/data/livros/tobias.json",
+          "sha256": "a64e1372bd6192a126315776e84ef76cba371408ae18a6100d72ade2d9eac21b",
+          "chapters": 14,
+          "verseRecords": 293,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        },
+        {
+          "path": "web/data/livros/zacarias.json",
+          "sha256": "8f6868abacc057f4f60ce2e42612fdec963691df38a594b42d0fd86b0db897ea",
+          "chapters": 14,
+          "verseRecords": 199,
+          "emptyRecords": 0,
+          "replacementCharacterRecords": 0,
+          "longRecordsOver2000Characters": 0
+        }
+      ],
+      "rejectionReason": "Manual sample: Genesis 1:3 contains editorial commentary naming a modern author and a publication year inside the verse text. OCR corruption is visible in adjacent records. Full transcription and note separation not verified; no explicit repository license."
+    }
+  ]
+}
