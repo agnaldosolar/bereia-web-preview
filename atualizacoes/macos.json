@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.14",
-  "fileName": "atualizar_diario_leituras_mac.command",
-  "sha256": "9944c10f812b5064c5739ff209c6c178d100d4841f33705f40c96a5420a17a34",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/eb3e1852c2a5cce2b9eb6a0fd5cbc480d544f501/Tools/atualizar_diario_leituras_mac.command"
+  "release": "2026-10-29.15",
+  "fileName": "atualizar_cultos_impressao_mac.command",
+  "sha256": "ee6cf51f2dfc5f83e5dff9a9c929c06a0472b8aebb76193b21fad9d923abe5ea",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/6e384f3482392b14b97b7fcba927de54546ad808/Tools/atualizar_cultos_impressao_mac.command"
 }
