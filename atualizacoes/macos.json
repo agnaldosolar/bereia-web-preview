@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.11",
-  "fileName": "atualizar_menus_personalizacao_mac.command",
-  "sha256": "88fccfd7423bb193329f4e729de23da3a1736f1326147335e631235927caa4f4",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/3ee3048fe1d9cf9ec79ea0062026716d299e7123/Tools/atualizar_menus_personalizacao_mac.command"
+  "release": "2026-10-29.12",
+  "fileName": "atualizar_correcao_editor_mac.command",
+  "sha256": "1eff815ad4bfdcb601d48fa0be4713c5e6259ba59121924705bb783047c72e4b",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/a7d011817a7eb0fc00f4da9faddaddbd0747c191/Tools/atualizar_correcao_editor_mac.command"
 }
