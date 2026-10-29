@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.6",
-  "fileName": "atualizar_importacao_passagens_mac.command",
-  "sha256": "a2f1a2d8b65b6e679f589c6f6fdef6ab53fabdaae16038d2e1d1f12253bd1df8",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/32394afefdbd42faf1677574c2a38890ec6d3496/Tools/atualizar_importacao_passagens_mac.command"
+  "release": "2026-10-29.7",
+  "fileName": "atualizar_exclusao_passagens_mac.command",
+  "sha256": "6cda214c6b2c786c6865134606a050041dab6fa080d98458e388b5a7c4cefcb2",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/b2240771ed6e90f0d04d94863e47c3ed33f3c2e5/Tools/atualizar_exclusao_passagens_mac.command"
 }
