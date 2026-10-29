@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.4",
-  "fileName": "atualizar_passagens_sermoes_mac.command",
-  "sha256": "9559be5b4db6b4a4ccecf9c4495e1d7bdbbf50a7da59047c609067b180066ed1",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/f7ff9331830ff2464b775ba2f8ae5176be683c0f/Tools/atualizar_passagens_sermoes_mac.command"
+  "release": "2026-10-29.5",
+  "fileName": "atualizar_leitura_cronometro_mac.command",
+  "sha256": "89316cc7ee8d7e1d2b841f9733361663328d9607be1dd52af22ffddae66325ba",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/05651907dabbfdcbf27fb987911f3bd00c2c3d02/Tools/atualizar_leitura_cronometro_mac.command"
 }
