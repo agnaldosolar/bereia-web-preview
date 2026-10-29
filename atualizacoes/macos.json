@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.1",
-  "fileName": "atualizar_curso_orientacoes_mac.command",
-  "sha256": "a9b6bae0be6302309c42d146901516e1a4640c688b8177329df2ee7b8cd07177",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/201cba74017c4566208cb234a087a32e643d7d98/Tools/atualizar_curso_orientacoes_mac.command"
+  "release": "2026-10-29.2",
+  "fileName": "atualizar_sermao_textual_mac.command",
+  "sha256": "6163e39a654991e2261c6e8813d362f406bfdf2ba4a316951a352e580514c663",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/95d8ceead32585f200b955c22d6a5facebc077f5/Tools/atualizar_sermao_textual_mac.command"
 }
