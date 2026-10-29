@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.2",
-  "fileName": "atualizar_sermao_textual_mac.command",
-  "sha256": "6163e39a654991e2261c6e8813d362f406bfdf2ba4a316951a352e580514c663",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/95d8ceead32585f200b955c22d6a5facebc077f5/Tools/atualizar_sermao_textual_mac.command"
+  "release": "2026-10-29.3",
+  "fileName": "atualizar_sermao_tematico_mac.command",
+  "sha256": "4bd28a0ca60399bacc2aabe3e5f62235ce05d9cdb7f6b14204015fe23de372f4",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/edaee67d97523378b328a73f0f76627d56b01f0f/Tools/atualizar_sermao_tematico_mac.command"
 }
