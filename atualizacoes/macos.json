@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.3",
-  "fileName": "atualizar_sermao_tematico_mac.command",
-  "sha256": "4bd28a0ca60399bacc2aabe3e5f62235ce05d9cdb7f6b14204015fe23de372f4",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/edaee67d97523378b328a73f0f76627d56b01f0f/Tools/atualizar_sermao_tematico_mac.command"
+  "release": "2026-10-29.4",
+  "fileName": "atualizar_passagens_sermoes_mac.command",
+  "sha256": "9559be5b4db6b4a4ccecf9c4495e1d7bdbbf50a7da59047c609067b180066ed1",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/f7ff9331830ff2464b775ba2f8ae5176be683c0f/Tools/atualizar_passagens_sermoes_mac.command"
 }
