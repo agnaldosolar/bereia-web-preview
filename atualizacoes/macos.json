@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.7",
-  "fileName": "atualizar_exclusao_passagens_mac.command",
-  "sha256": "6cda214c6b2c786c6865134606a050041dab6fa080d98458e388b5a7c4cefcb2",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/b2240771ed6e90f0d04d94863e47c3ed33f3c2e5/Tools/atualizar_exclusao_passagens_mac.command"
+  "release": "2026-10-29.8",
+  "fileName": "atualizar_insercao_biblica_quadros_mac.command",
+  "sha256": "4316e584d7b9fc8ba67eec9390b269a3a91caef11fbcf6275bd8b0839e5fe8b1",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/c36d3475de695ff8a5cab204c051698070ef7f0d/Tools/atualizar_insercao_biblica_quadros_mac.command"
 }
