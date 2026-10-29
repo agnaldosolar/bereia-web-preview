@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.13",
-  "fileName": "atualizar_modalidades_menus_mac.command",
-  "sha256": "c2bc74dcd6b8faf5627e8cc237f6f6da05ef49636c679f95e8d5df6d8dcd3d84",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/687ad5918fff432611b95e156b449f91f7c5be6b/Tools/atualizar_modalidades_menus_mac.command"
+  "release": "2026-10-29.14",
+  "fileName": "atualizar_diario_leituras_mac.command",
+  "sha256": "9944c10f812b5064c5739ff209c6c178d100d4841f33705f40c96a5420a17a34",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/eb3e1852c2a5cce2b9eb6a0fd5cbc480d544f501/Tools/atualizar_diario_leituras_mac.command"
 }
