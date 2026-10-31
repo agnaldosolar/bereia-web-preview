@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-31.4",
-  "fileName": "atualizar_visualizacao_biblioteca_mac.command",
-  "sha256": "360c1e12e66fe608d2637ab49cd9ff6d9968ae3522972e6649787d1c6fa0d5f2",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/90ccaa1df420e01699e192217880bd70b7b51752/Tools/atualizar_visualizacao_biblioteca_mac.command"
+  "release": "2026-10-31.5",
+  "fileName": "atualizar_categorias_biblioteca_mac.command",
+  "sha256": "ef9b77800366a21dec1c74eb95f7000f7c598b2867ee3652f443082c3496e866",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/9f11ab6ca26cc0ae47d621e8cf265a924f92b9c9/Tools/atualizar_categorias_biblioteca_mac.command"
 }
