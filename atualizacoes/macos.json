@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-31.8",
-  "fileName": "atualizar_correcao_capas_pdf_mac.command",
-  "sha256": "08457547a705c6cc84454f078d64b1336b62260904ea982efc98726fb88e5901",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/bde41c7c51428b8f8897c17ad7a03c93df908df9/Tools/atualizar_correcao_capas_pdf_mac.command"
+  "release": "2026-10-31.9",
+  "fileName": "atualizar_ajuste_miniaturas_mac.command",
+  "sha256": "56f530217db1e436e0c35f611a92a6f22f502e0e028109b7076fa330b87e9b22",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/ede476f5015dc7320808480d0d06ee63494b40ec/Tools/atualizar_ajuste_miniaturas_mac.command"
 }
