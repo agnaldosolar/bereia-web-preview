@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-31.3",
-  "fileName": "atualizar_biblias_compactas_mac.command",
-  "sha256": "403173199bc630dd679af10951a4ee3cc19b1e79502c19be62f23c3a9b0dcb86",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/027f7db408c9173a7faf75349ec9a802839687b8/Tools/atualizar_biblias_compactas_mac.command"
+  "release": "2026-10-31.4",
+  "fileName": "atualizar_visualizacao_biblioteca_mac.command",
+  "sha256": "360c1e12e66fe608d2637ab49cd9ff6d9968ae3522972e6649787d1c6fa0d5f2",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/90ccaa1df420e01699e192217880bd70b7b51752/Tools/atualizar_visualizacao_biblioteca_mac.command"
 }
