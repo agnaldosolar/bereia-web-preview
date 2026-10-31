@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-31.2",
-  "fileName": "atualizar_pesquisa_biblioteca_mac.command",
-  "sha256": "f78e2355d865cbd6632360c03330ff6aee7b2722d61286f79b053907e655385a",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/b931a20a454a0d562edd38d22d171731b52ec15c/Tools/atualizar_pesquisa_biblioteca_mac.command"
+  "release": "2026-10-31.3",
+  "fileName": "atualizar_biblias_compactas_mac.command",
+  "sha256": "403173199bc630dd679af10951a4ee3cc19b1e79502c19be62f23c3a9b0dcb86",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/027f7db408c9173a7faf75349ec9a802839687b8/Tools/atualizar_biblias_compactas_mac.command"
 }
