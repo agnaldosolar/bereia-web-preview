@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-29.15",
-  "fileName": "atualizar_cultos_impressao_mac.command",
-  "sha256": "ee6cf51f2dfc5f83e5dff9a9c929c06a0472b8aebb76193b21fad9d923abe5ea",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/6e384f3482392b14b97b7fcba927de54546ad808/Tools/atualizar_cultos_impressao_mac.command"
+  "release": "2026-10-31.1",
+  "fileName": "atualizar_pastas_unificadas_mac.command",
+  "sha256": "e7995a8c1a25f257ce94749731629d5c638da042cd94b4c84487d777b5fde61f",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/72c77f46670b6084186bc0b72af232412b6bee0f/Tools/atualizar_pastas_unificadas_mac.command"
 }
