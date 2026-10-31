@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-31.7",
-  "fileName": "atualizar_capas_pdf_mac.command",
-  "sha256": "0d568ba297089c03eced528019ffdacf1fc2af8e07a0b0de3c39f24f3b4fa65b",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/84b533d783e038eff48568a6504277f9a4db9572/Tools/atualizar_capas_pdf_mac.command"
+  "release": "2026-10-31.8",
+  "fileName": "atualizar_correcao_capas_pdf_mac.command",
+  "sha256": "08457547a705c6cc84454f078d64b1336b62260904ea982efc98726fb88e5901",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/bde41c7c51428b8f8897c17ad7a03c93df908df9/Tools/atualizar_correcao_capas_pdf_mac.command"
 }
