@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-10-31.1",
-  "fileName": "atualizar_pastas_unificadas_mac.command",
-  "sha256": "e7995a8c1a25f257ce94749731629d5c638da042cd94b4c84487d777b5fde61f",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/72c77f46670b6084186bc0b72af232412b6bee0f/Tools/atualizar_pastas_unificadas_mac.command"
+  "release": "2026-10-31.2",
+  "fileName": "atualizar_pesquisa_biblioteca_mac.command",
+  "sha256": "f78e2355d865cbd6632360c03330ff6aee7b2722d61286f79b053907e655385a",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/b931a20a454a0d562edd38d22d171731b52ec15c/Tools/atualizar_pesquisa_biblioteca_mac.command"
 }
