@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-01.1",
-  "fileName": "atualizar_aviso_voz_playback_mac.command",
-  "sha256": "e0f1261146e16fd9aedc39ccbafe1eddcd8d8a18954d2da4a212b5398c061878",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/5da89aa062816836e4e0861fe1a802ba93485580/Tools/atualizar_aviso_voz_playback_mac.command"
+  "release": "2026-11-01.2",
+  "fileName": "atualizar_recadastro_hinos_mac.command",
+  "sha256": "88950297e342664275bfce2e92ffcccc49af6bd365c01e9c8bc9e81da7b7634d",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/db9a003e311bc6a9151936dbbcecd76830772e22/Tools/atualizar_recadastro_hinos_mac.command"
 }
