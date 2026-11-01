@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-01.2",
-  "fileName": "atualizar_recadastro_hinos_mac.command",
-  "sha256": "88950297e342664275bfce2e92ffcccc49af6bd365c01e9c8bc9e81da7b7634d",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/db9a003e311bc6a9151936dbbcecd76830772e22/Tools/atualizar_recadastro_hinos_mac.command"
+  "release": "2026-11-01.3",
+  "fileName": "atualizar_alinhamento_hinos_mac.command",
+  "sha256": "78979080849323edb43476de002289909b70c6f11194a7ac8f579a430f4c7f82",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/304414c135dfa642da85fc2c7736bf4ffc9ae481/Tools/atualizar_alinhamento_hinos_mac.command"
 }
