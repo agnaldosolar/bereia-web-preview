@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-01.3",
-  "fileName": "atualizar_alinhamento_hinos_mac.command",
-  "sha256": "78979080849323edb43476de002289909b70c6f11194a7ac8f579a430f4c7f82",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/304414c135dfa642da85fc2c7736bf4ffc9ae481/Tools/atualizar_alinhamento_hinos_mac.command"
+  "release": "2026-11-01.4",
+  "fileName": "atualizar_cartoes_hinos_limpos_mac.command",
+  "sha256": "775a58fc64e234a175d4697d190716e12d2f54668444fe008206d0a355f3786d",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/475adb7f77aad2db03e974aa46de7a412c2a5fdc/Tools/atualizar_cartoes_hinos_limpos_mac.command"
 }
