@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-02.1",
-  "fileName": "atualizar_leitura_videos_hinos_mac.command",
-  "sha256": "c7f02661182b106320d16795f02caf6aa98dbc24ccba9917fd38e7f939a6adfa",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/d67d7e2062a1cdedd5fd57044303f2e7857b335f/Tools/atualizar_leitura_videos_hinos_mac.command"
+  "release": "2026-11-02.2",
+  "fileName": "atualizar_cinco_hinos_mac.command",
+  "sha256": "06c61d2616b7d89cfd4e56018339e9c6da4469f37a90180b2dd79059a1ea2749",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/1710fd9c3cc9cbe1db3c80ba1d7dbf3975a30aa1/Tools/atualizar_cinco_hinos_mac.command"
 }
