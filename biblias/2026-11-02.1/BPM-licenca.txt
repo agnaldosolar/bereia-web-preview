@@ -1,0 +1,24 @@
+Bíblia Portuguesa Mundial — em revisão
+
+Domínio público. Conversão de formato para o Bereia e nomes de navegação em português; palavras e referências preservadas, sem tradução automática. As contribuições desta conversão de texto seguem a mesma licença; não implicam endosso dos titulares.
+
+About porbrbsl_vpl
+This archive contains BIBLE TEXT ONLY. All formatting, paragraph breaks, notes, introductions, noncanonical section titles, etc., have been removed. The file ending "_vpl.txt" is designed for import into BibleWorks and similar Bible study programs. The file ending "_vpl.xml" contains the same information, but is in XML format and uses standard SIL/UBS book abbreviations.
+The file ending "_vpl.sql" contains the same information formatted to create a SQL data table.
+Check for updates and other Bible translations in this format at https:\\eBible.org\Scriptures\ http:\\eBible.org\Scriptures\
+Bíblia Portuguesa Mundial
+The Holy Bible in Portuguese, Brazilian dialect, Bíblia Portuguesa Mundial translation
+A Bíblia Sagrada em português, dialeto brasileiro, tradução da Bíblia Portuguesa Mundial
+http://en.wikipedia.org/wiki/Public_domain Public Domain
+Este é um rascunho de tradução da Bíblia Sagrada e ainda em revisão. Por favor, relate problemas e sugestões de melhoria para porbrbsl@eBible.org.
+Esta tradução da Bíblia foi inicialmente chamada de "Bíblia Sagrada livre para o mundo".
+Language: http://www.ethnologue.org/language/por Português
+Brasil
+Language in English: Portuguese
+Translation by:
+2026-10-08
+
+Fonte original: https://ebible.org/Scriptures/porbrbsl_vpl.zip
+Arquivo original preservado em espelho público fixado: https://raw.githubusercontent.com/alexpiraginet-bot/biblia-conectada/f0dce71971e0597482f4ba7cb852fb91e2bf531c/fontes/ebible/porbrbsl/porbrbsl_vpl.zip
+SHA-256 do ZIP: 6bd5a1c9f6d4c5fef38bcc979cd1eb94ea9d4707c1a98718fcb3c89ff4558883
+Conversão offline de VPL para JSON; nomes de navegação em português. Não inclui notas, títulos de seção ou imagens.

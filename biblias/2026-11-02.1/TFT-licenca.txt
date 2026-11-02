@@ -1,0 +1,29 @@
+Tradução para Tradutores — Novo Testamento
+
+CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/. Conversão de formato para o Bereia e nomes de navegação em português; palavras e referências preservadas, sem tradução automática. As contribuições desta conversão de texto seguem a mesma licença; não implicam endosso dos titulares.
+
+About portft_vpl
+This archive contains BIBLE TEXT ONLY. All formatting, paragraph breaks, notes, introductions, noncanonical section titles, etc., have been removed. The file ending "_vpl.txt" is designed for import into BibleWorks and similar Bible study programs. The file ending "_vpl.xml" contains the same information, but is in XML format and uses standard SIL/UBS book abbreviations.
+The file ending "_vpl.sql" contains the same information formatted to create a SQL data table.
+Check for updates and other Bible translations in this format at https:\\eBible.org\Scriptures\ http:\\eBible.org\Scriptures\
+A Bíblia Sagrada, Tradução para Tradutores
+The Holy Bible: a Translation for Translators in Brazilian Portuguese
+Copyright © 2018 Ellis W. Deibler, Jr.
+Language: http://www.ethnologue.org/language/por portugues (Portuguese)
+Dialect: Brasil
+Translation by: Ellis W. Deibler, Jr.
+This translation is made available to you under the terms of the
+http://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution Share-Alike license 4.0.
+You have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:
+You include the above copyright and source information.
+If you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.
+If you redistribute this text, you must distribute your contributions under the same license as the original.
+Pictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents.
+For other uses, please contact the respective copyright owners.
+Note that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.
+2018-09-11
+
+Fonte original: https://ebible.org/Scriptures/portft_vpl.zip
+Arquivo original preservado em espelho público fixado: https://raw.githubusercontent.com/alexpiraginet-bot/biblia-conectada/f0dce71971e0597482f4ba7cb852fb91e2bf531c/fontes/ebible/portft/portft_vpl.zip
+SHA-256 do ZIP: b4b29fc0106a8655ccf41105e36b82a714124cd6dcd27e7dc002c174da010a5e
+Conversão offline de VPL para JSON; nomes de navegação em português. Não inclui notas, títulos de seção ou imagens.
