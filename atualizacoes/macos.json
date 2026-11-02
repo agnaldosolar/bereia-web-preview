@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-02.2",
-  "fileName": "atualizar_cinco_hinos_mac.command",
-  "sha256": "06c61d2616b7d89cfd4e56018339e9c6da4469f37a90180b2dd79059a1ea2749",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/1710fd9c3cc9cbe1db3c80ba1d7dbf3975a30aa1/Tools/atualizar_cinco_hinos_mac.command"
+  "release": "2026-11-02.3",
+  "fileName": "atualizar_biblias_portugues_mac.command",
+  "sha256": "1da694e9403b7048dbe4d16686911797bbd9a2485b53858b798bc974d8713846",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/01c83893ce5db1781cf7abfa69bfd42423551c9e/Tools/atualizar_biblias_portugues_mac.command"
 }
