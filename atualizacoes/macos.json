@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-01.4",
-  "fileName": "atualizar_cartoes_hinos_limpos_mac.command",
-  "sha256": "775a58fc64e234a175d4697d190716e12d2f54668444fe008206d0a355f3786d",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/475adb7f77aad2db03e974aa46de7a412c2a5fdc/Tools/atualizar_cartoes_hinos_limpos_mac.command"
+  "release": "2026-11-02.1",
+  "fileName": "atualizar_leitura_videos_hinos_mac.command",
+  "sha256": "c7f02661182b106320d16795f02caf6aa98dbc24ccba9917fd38e7f939a6adfa",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/d67d7e2062a1cdedd5fd57044303f2e7857b335f/Tools/atualizar_leitura_videos_hinos_mac.command"
 }
