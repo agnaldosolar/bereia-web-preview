@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-02.5",
-  "fileName": "atualizar_visualizacao_independente_mac.command",
-  "sha256": "de43597639a71a4ea193fb4724edf15df1309c31e7e5b2dc771baf8dbdf95875",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/cfcde4a6458656713ff1bb8a3eaad59936b36f7a/Tools/atualizar_visualizacao_independente_mac.command"
+  "release": "2026-11-02.6",
+  "fileName": "atualizar_ordem_titulos_bibliotecas_mac.command",
+  "sha256": "55f4f2edb8eee4369a7adf136ff54350a16350f8afdbc5c495c85ebc94587135",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/86e6ace6cfc9858ff8aa3a04f2453da3b69bde87/Tools/atualizar_ordem_titulos_bibliotecas_mac.command"
 }
