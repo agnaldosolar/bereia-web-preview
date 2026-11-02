@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-02.4",
-  "fileName": "atualizar_visualizacao_por_menu_mac.command",
-  "sha256": "fbe4c6808aaec61026f465c60320dd53b9866af9dc6b4e8dfbb173aa41c14a52",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/5c7522343055069986984679b80bc3d00e4cd750/Tools/atualizar_visualizacao_por_menu_mac.command"
+  "release": "2026-11-02.5",
+  "fileName": "atualizar_visualizacao_independente_mac.command",
+  "sha256": "de43597639a71a4ea193fb4724edf15df1309c31e7e5b2dc771baf8dbdf95875",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/cfcde4a6458656713ff1bb8a3eaad59936b36f7a/Tools/atualizar_visualizacao_independente_mac.command"
 }
