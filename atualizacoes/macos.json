@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-02.3",
-  "fileName": "atualizar_biblias_portugues_mac.command",
-  "sha256": "1da694e9403b7048dbe4d16686911797bbd9a2485b53858b798bc974d8713846",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/01c83893ce5db1781cf7abfa69bfd42423551c9e/Tools/atualizar_biblias_portugues_mac.command"
+  "release": "2026-11-02.4",
+  "fileName": "atualizar_visualizacao_por_menu_mac.command",
+  "sha256": "fbe4c6808aaec61026f465c60320dd53b9866af9dc6b4e8dfbb173aa41c14a52",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/5c7522343055069986984679b80bc3d00e4cd750/Tools/atualizar_visualizacao_por_menu_mac.command"
 }
