@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-02.11",
-  "fileName": "atualizar_formatacao_unicode_mac.command",
-  "sha256": "ce0460d1d8e9717baf7ab69cf934991fd0c7042eb07278f624361548eb0e4753",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/c462f71283f97bd8c6b3a32434719fa43446d812/Tools/atualizar_formatacao_unicode_mac.command"
+  "release": "2026-11-03.1",
+  "fileName": "atualizar_controles_formatacao_mac.command",
+  "sha256": "84abaa9bbf862d092c31d48dd09fda9f3e0c326b384fe7e7565afc9fd60e895d",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/99ec7ff003c2d98764a876278619227266f9654f/Tools/atualizar_controles_formatacao_mac.command"
 }
