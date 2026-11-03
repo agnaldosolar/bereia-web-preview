@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-02.9",
-  "fileName": "atualizar_quadros_clicaveis_mac.command",
-  "sha256": "06413b4570e05bc653258a539b367f4e4ef4cf6ef6109b380670afce0cc9de44",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/268eb43d57cc5b7a55934fc5438cbf9a0f22f528/Tools/atualizar_quadros_clicaveis_mac.command"
+  "release": "2026-11-02.10",
+  "fileName": "atualizar_formatacao_quadros_mac.command",
+  "sha256": "3f70020d2544ca5fd62fa16e187a21f4e75ee73a99994454062a883faf5ef9dc",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/394c3a659e2544becba646f831ae70a0723c1b7d/Tools/atualizar_formatacao_quadros_mac.command"
 }
