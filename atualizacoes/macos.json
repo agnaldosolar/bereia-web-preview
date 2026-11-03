@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-03.2",
-  "fileName": "atualizar_dicionario_popups_mac.command",
-  "sha256": "681dc0a4dca94de8240b303d63a70267cf89632e64d676f7984e7fb429df7c5e",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/f14a98daec4411bd84d45ac387346ae418e78ad9/Tools/atualizar_dicionario_popups_mac.command"
+  "release": "2026-11-03.3",
+  "fileName": "atualizar_padrao_fundos_geral_mac.command",
+  "sha256": "1b1fd12996d41f0a54c32687ec34dc09868abb1496de26e8c40519d95fb5e3e0",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/925340ce774bf7ebc5980e73a3058aa5d5fcc297/Tools/atualizar_padrao_fundos_geral_mac.command"
 }
