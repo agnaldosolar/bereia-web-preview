@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-03.3",
-  "fileName": "atualizar_padrao_fundos_geral_mac.command",
-  "sha256": "1b1fd12996d41f0a54c32687ec34dc09868abb1496de26e8c40519d95fb5e3e0",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/925340ce774bf7ebc5980e73a3058aa5d5fcc297/Tools/atualizar_padrao_fundos_geral_mac.command"
+  "release": "2026-11-03.4",
+  "fileName": "atualizar_hino_tela_limpa_mac.command",
+  "sha256": "e646b928f7bfb0fbe74038c01ef620e4ff844ab9d7ff5710d715ba42ce1986b9",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/0529dec857d7ded70296dec4f16f694cf3b5821b/Tools/atualizar_hino_tela_limpa_mac.command"
 }
