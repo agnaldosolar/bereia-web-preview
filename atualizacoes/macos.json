@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-02.8",
-  "fileName": "atualizar_texto_biblico_completo_mac.command",
-  "sha256": "20bc3aba87b43d8c0bd646c864ebe3e3e981b0e1aa147a15caf1dd233c297d45",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/0f8eaaff8ea601bbd3a0235096a6216e229b7857/Tools/atualizar_texto_biblico_completo_mac.command"
+  "release": "2026-11-02.9",
+  "fileName": "atualizar_quadros_clicaveis_mac.command",
+  "sha256": "06413b4570e05bc653258a539b367f4e4ef4cf6ef6109b380670afce0cc9de44",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/268eb43d57cc5b7a55934fc5438cbf9a0f22f528/Tools/atualizar_quadros_clicaveis_mac.command"
 }
