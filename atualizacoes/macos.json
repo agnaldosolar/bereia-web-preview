@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-02.10",
-  "fileName": "atualizar_formatacao_quadros_mac.command",
-  "sha256": "3f70020d2544ca5fd62fa16e187a21f4e75ee73a99994454062a883faf5ef9dc",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/394c3a659e2544becba646f831ae70a0723c1b7d/Tools/atualizar_formatacao_quadros_mac.command"
+  "release": "2026-11-02.11",
+  "fileName": "atualizar_formatacao_unicode_mac.command",
+  "sha256": "ce0460d1d8e9717baf7ab69cf934991fd0c7042eb07278f624361548eb0e4753",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/c462f71283f97bd8c6b3a32434719fa43446d812/Tools/atualizar_formatacao_unicode_mac.command"
 }
