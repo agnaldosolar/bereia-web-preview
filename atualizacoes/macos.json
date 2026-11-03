@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-03.1",
-  "fileName": "atualizar_controles_formatacao_mac.command",
-  "sha256": "84abaa9bbf862d092c31d48dd09fda9f3e0c326b384fe7e7565afc9fd60e895d",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/99ec7ff003c2d98764a876278619227266f9654f/Tools/atualizar_controles_formatacao_mac.command"
+  "release": "2026-11-03.2",
+  "fileName": "atualizar_dicionario_popups_mac.command",
+  "sha256": "681dc0a4dca94de8240b303d63a70267cf89632e64d676f7984e7fb429df7c5e",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/f14a98daec4411bd84d45ac387346ae418e78ad9/Tools/atualizar_dicionario_popups_mac.command"
 }
