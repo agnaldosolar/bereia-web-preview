@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "2026-11-02.7",
-  "fileName": "atualizar_passagem_digitavel_mac.command",
-  "sha256": "58c0a55d4bdff0f6f1b60b6922cd36128ad5bb5eed1079541d1392aed8b96957",
-  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/6f374f802df52c54eb64cd238cc31c9823d3d1b7/Tools/atualizar_passagem_digitavel_mac.command"
+  "release": "2026-11-02.8",
+  "fileName": "atualizar_texto_biblico_completo_mac.command",
+  "sha256": "20bc3aba87b43d8c0bd646c864ebe3e3e981b0e1aa147a15caf1dd233c297d45",
+  "pageURL": "https://github.com/agnaldosolar/projeto-bereia/blob/0f8eaaff8ea601bbd3a0235096a6216e229b7857/Tools/atualizar_texto_biblico_completo_mac.command"
 }
